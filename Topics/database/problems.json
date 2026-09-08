@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-09-08T20:59:49.053Z",
+  "problems": [
+    {
+      "frontendId": "595",
+      "title": "Big Countries",
+      "slug": "big-countries",
+      "problemName": "0595-big-countries",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/big-countries/",
+      "folderPath": "0595-big-countries/",
+      "readmePath": "0595-big-countries/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0595-big-countries.sql",
+          "path": "0595-big-countries/0595-big-countries.sql",
+          "sha": "a32ff45be423307a0a7af670e351129bf2dec084",
+          "lastSyncedAt": "2026-09-08T20:59:49.053Z"
+        }
+      ]
+    }
+  ]
+}
