@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array"
+  },
+  "updatedAt": "2026-09-09T17:46:21.940Z",
+  "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0015-3sum.cpp",
+          "path": "0015-3sum/0015-3sum.cpp",
+          "sha": "17c5a598be1a3ffa920078c87239e14b508ccaf6",
+          "lastSyncedAt": "2026-09-09T17:46:21.940Z"
+        }
+      ]
+    }
+  ]
+}
