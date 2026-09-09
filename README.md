@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 8 | 13 | 0 |
+| 22 | 9 | 13 | 0 |
 
 ## Activity
 
@@ -22,29 +22,30 @@ Contains topicwise list of solved problems.
 | 2026-08-06 | 2 |
 | 2026-08-12 | 1 |
 | 2026-08-17 | 2 |
-| 2026-09-09 | 2 |
+| 2026-09-09 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 86% |
-| Hash Table | 6 | 29% |
-| Divide and Conquer | 5 | 24% |
+| Array | 19 | 86% |
+| Hash Table | 6 | 27% |
+| Divide and Conquer | 5 | 23% |
 | Binary Tree | 3 | 14% |
+| Dynamic Programming | 3 | 14% |
 | Matrix | 3 | 14% |
 | Sorting | 3 | 14% |
 | Tree | 3 | 14% |
 | Two Pointers | 3 | 14% |
-| Bit Manipulation | 2 | 10% |
-| Breadth-First Search | 2 | 10% |
+| Bit Manipulation | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
+| [Array](Topics/array/) | 2 |
 | [Database](Topics/database/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Sorting](Topics/sorting/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
