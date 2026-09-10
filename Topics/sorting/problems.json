@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-09T17:46:21.940Z",
+  "updatedAt": "2026-09-10T17:23:05.212Z",
   "problems": [
     {
       "frontendId": "15",
@@ -22,7 +22,7 @@
           "filename": "0015-3sum.cpp",
           "path": "0015-3sum/0015-3sum.cpp",
           "sha": "17c5a598be1a3ffa920078c87239e14b508ccaf6",
-          "lastSyncedAt": "2026-09-09T17:46:21.940Z"
+          "lastSyncedAt": "2026-09-10T17:23:05.212Z"
         }
       ]
     }
