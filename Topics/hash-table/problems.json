@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-11T18:16:53.493Z",
+  "updatedAt": "2026-09-11T18:29:04.983Z",
   "problems": [
     {
       "frontendId": "242",
@@ -43,6 +43,26 @@
           "path": "0383-ransom-note/0383-ransom-note.cpp",
           "sha": "5995c8e2552d886eb43c1e5aa645eb23d068ec21",
           "lastSyncedAt": "2026-09-11T18:05:32.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2363",
+      "title": "Merge Similar Items",
+      "slug": "merge-similar-items",
+      "problemName": "2363-merge-similar-items",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-similar-items/",
+      "folderPath": "2363-merge-similar-items/",
+      "readmePath": "2363-merge-similar-items/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2363-merge-similar-items.cpp",
+          "path": "2363-merge-similar-items/2363-merge-similar-items.cpp",
+          "sha": "7b90d1a4be203363d6888145e2045a68d4d19b43",
+          "lastSyncedAt": "2026-09-11T18:29:04.983Z"
         }
       ]
     }
