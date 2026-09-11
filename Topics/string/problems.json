@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-11T18:05:32.941Z",
+  "updatedAt": "2026-09-11T18:16:53.493Z",
   "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0242-valid-anagram.cpp",
+          "path": "0242-valid-anagram/0242-valid-anagram.cpp",
+          "sha": "2bab93c000c991055dcf79e47b29f9c93fe7b743",
+          "lastSyncedAt": "2026-09-11T18:16:53.493Z"
+        }
+      ]
+    },
     {
       "frontendId": "383",
       "title": "Ransom Note",
