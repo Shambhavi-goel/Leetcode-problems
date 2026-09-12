@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 11 | 13 | 0 |
+| 26 | 13 | 13 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 9 |
+| 2 days | 2 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,32 +24,37 @@ Contains topicwise list of solved problems.
 | 2026-08-17 | 2 |
 | 2026-09-09 | 3 |
 | 2026-09-11 | 2 |
+| 2026-09-12 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 79% |
-| Hash Table | 8 | 33% |
-| Divide and Conquer | 5 | 21% |
-| Sorting | 4 | 17% |
-| Binary Tree | 3 | 13% |
-| Dynamic Programming | 3 | 13% |
-| Matrix | 3 | 13% |
-| Tree | 3 | 13% |
-| Two Pointers | 3 | 13% |
-| Bit Manipulation | 2 | 8% |
+| Array | 20 | 77% |
+| Hash Table | 9 | 35% |
+| Divide and Conquer | 5 | 19% |
+| Sorting | 5 | 19% |
+| Two Pointers | 4 | 15% |
+| Binary Tree | 3 | 12% |
+| Dynamic Programming | 3 | 12% |
+| Matrix | 3 | 12% |
+| Tree | 3 | 12% |
+| Binary Search | 2 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 2 |
+| [Array](Topics/array/) | 4 |
+| [Binary Search](Topics/binary-search/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Database](Topics/database/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
-| [Hash Table](Topics/hash-table/) | 2 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Hash Table](Topics/hash-table/) | 4 |
+| [Linked List](Topics/linked-list/) | 1 |
+| [ordered-set](Topics/ordered-set/) | 0 |
+| [Recursion](Topics/recursion/) | 1 |
+| [Sorting](Topics/sorting/) | 4 |
 | [String](Topics/string/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
