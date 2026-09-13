@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 15 | 13 | 0 |
+| 29 | 15 | 14 | 0 |
 
 ## Activity
 
@@ -25,22 +25,22 @@ Contains topicwise list of solved problems.
 | 2026-09-09 | 3 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 3 |
-| 2026-09-13 | 1 |
+| 2026-09-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 71% |
-| Hash Table | 9 | 32% |
-| Divide and Conquer | 5 | 18% |
-| Sorting | 5 | 18% |
-| Two Pointers | 5 | 18% |
+| Array | 20 | 69% |
+| Hash Table | 9 | 31% |
+| Divide and Conquer | 5 | 17% |
+| Sorting | 5 | 17% |
+| Two Pointers | 5 | 17% |
 | String | 4 | 14% |
-| Binary Tree | 3 | 11% |
-| Dynamic Programming | 3 | 11% |
-| Matrix | 3 | 11% |
-| Tree | 3 | 11% |
+| Binary Tree | 3 | 10% |
+| Dynamic Programming | 3 | 10% |
+| Matrix | 3 | 10% |
+| Tree | 3 | 10% |
 
 ## Topics
 
@@ -52,7 +52,7 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Hash Table](Topics/hash-table/) | 4 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [ordered-set](Topics/ordered-set/) | 0 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
