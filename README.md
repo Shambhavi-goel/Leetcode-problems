@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 14 | 13 | 0 |
+| 28 | 15 | 13 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 10 |
+| 3 days | 3 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -25,20 +25,21 @@ Contains topicwise list of solved problems.
 | 2026-09-09 | 3 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 3 |
+| 2026-09-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 20 | 74% |
-| Hash Table | 9 | 33% |
-| Divide and Conquer | 5 | 19% |
-| Sorting | 5 | 19% |
-| Two Pointers | 5 | 19% |
+| Array | 20 | 71% |
+| Hash Table | 9 | 32% |
+| Divide and Conquer | 5 | 18% |
+| Sorting | 5 | 18% |
+| Two Pointers | 5 | 18% |
+| String | 4 | 14% |
 | Binary Tree | 3 | 11% |
 | Dynamic Programming | 3 | 11% |
 | Matrix | 3 | 11% |
-| String | 3 | 11% |
 | Tree | 3 | 11% |
 
 ## Topics
@@ -55,6 +56,6 @@ Contains topicwise list of solved problems.
 | [ordered-set](Topics/ordered-set/) | 0 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
-| [String](Topics/string/) | 3 |
+| [String](Topics/string/) | 4 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
