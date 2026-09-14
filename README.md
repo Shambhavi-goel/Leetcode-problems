@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 17 | 14 | 0 |
+| 32 | 18 | 14 | 0 |
 
 ## Activity
 
@@ -26,35 +26,36 @@ Contains topicwise list of solved problems.
 | 2026-09-11 | 2 |
 | 2026-09-12 | 3 |
 | 2026-09-13 | 3 |
-| 2026-09-14 | 1 |
+| 2026-09-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 68% |
-| Hash Table | 11 | 35% |
+| Array | 22 | 69% |
+| Hash Table | 12 | 38% |
 | Two Pointers | 6 | 19% |
 | Divide and Conquer | 5 | 16% |
 | Sorting | 5 | 16% |
 | String | 4 | 13% |
-| Binary Tree | 3 | 10% |
-| Dynamic Programming | 3 | 10% |
-| Linked List | 3 | 10% |
-| Matrix | 3 | 10% |
+| Binary Tree | 3 | 9% |
+| Counting | 3 | 9% |
+| Dynamic Programming | 3 | 9% |
+| Linked List | 3 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 6 |
 | [Binary Search](Topics/binary-search/) | 1 |
-| [Counting](Topics/counting/) | 2 |
+| [Counting](Topics/counting/) | 3 |
 | [Database](Topics/database/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Linked List](Topics/linked-list/) | 3 |
+| [Math](Topics/math/) | 1 |
 | [ordered-set](Topics/ordered-set/) | 0 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
