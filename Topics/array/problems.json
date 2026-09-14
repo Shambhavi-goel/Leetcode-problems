@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-11T18:51:31.620Z",
+  "updatedAt": "2026-09-14T16:40:21.076Z",
   "problems": [
     {
       "frontendId": "15",
@@ -63,6 +63,26 @@
           "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
           "sha": "9bea0b3d97761e66168189ee3aa6b6ca47ab0a3c",
           "lastSyncedAt": "2026-09-11T18:51:31.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1394",
+      "title": "Find Lucky Integer in an Array",
+      "slug": "find-lucky-integer-in-an-array",
+      "problemName": "1394-find-lucky-integer-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+      "folderPath": "1394-find-lucky-integer-in-an-array/",
+      "readmePath": "1394-find-lucky-integer-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1394-find-lucky-integer-in-an-array.cpp",
+          "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.cpp",
+          "sha": "a5b76d5bd401d205c91f50ece9be7de51bf7ba5a",
+          "lastSyncedAt": "2026-09-14T16:40:21.076Z"
         }
       ]
     },
