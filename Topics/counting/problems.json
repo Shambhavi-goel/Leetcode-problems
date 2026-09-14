@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-14T16:40:21.076Z",
+  "updatedAt": "2026-09-14T16:42:59.339Z",
   "problems": [
     {
       "frontendId": "383",
@@ -43,6 +43,26 @@
           "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.cpp",
           "sha": "a5b76d5bd401d205c91f50ece9be7de51bf7ba5a",
           "lastSyncedAt": "2026-09-14T16:40:21.076Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1512-number-of-good-pairs.cpp",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
+          "sha": "c72d0b7e567aa8155af8a6b0b1f9a18bdd4bbbfe",
+          "lastSyncedAt": "2026-09-14T16:42:59.339Z"
         }
       ]
     }
