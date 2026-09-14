@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-14T16:42:59.339Z",
+  "updatedAt": "2026-09-14T16:49:42.531Z",
   "problems": [
     {
       "frontendId": "141",
@@ -123,6 +123,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "c72d0b7e567aa8155af8a6b0b1f9a18bdd4bbbfe",
           "lastSyncedAt": "2026-09-14T16:42:59.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "1748-sum-of-unique-elements/",
+      "readmePath": "1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1748-sum-of-unique-elements.cpp",
+          "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.cpp",
+          "sha": "57a3fa615927cf302165edec50bb75b391d83cdf",
+          "lastSyncedAt": "2026-09-14T16:49:42.531Z"
         }
       ]
     },
