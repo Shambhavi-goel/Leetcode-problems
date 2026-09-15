@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-09-15T17:54:06.029Z",
+  "problems": [
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "0605-can-place-flowers/",
+      "readmePath": "0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0605-can-place-flowers.cpp",
+          "path": "0605-can-place-flowers/0605-can-place-flowers.cpp",
+          "sha": "8b431df5a5eae1dd290c4c5c9be5c21cc46972d9",
+          "lastSyncedAt": "2026-09-15T17:54:06.029Z"
+        }
+      ]
+    }
+  ]
+}
