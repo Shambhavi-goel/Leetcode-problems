@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T17:54:06.029Z",
+  "updatedAt": "2026-09-16T15:32:04.479Z",
   "problems": [
     {
       "frontendId": "15",
@@ -23,6 +23,26 @@
           "path": "0015-3sum/0015-3sum.cpp",
           "sha": "17c5a598be1a3ffa920078c87239e14b508ccaf6",
           "lastSyncedAt": "2026-09-10T17:23:05.212Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "0088-merge-sorted-array/",
+      "readmePath": "0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0088-merge-sorted-array.cpp",
+          "path": "0088-merge-sorted-array/0088-merge-sorted-array.cpp",
+          "sha": "a57b79969e6e26b0bb1fc1f9392405f890fb56f3",
+          "lastSyncedAt": "2026-09-16T15:32:04.479Z"
         }
       ]
     },
