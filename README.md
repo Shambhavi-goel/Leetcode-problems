@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 22 | 14 | 0 |
+| 37 | 23 | 14 | 0 |
 
 ## Activity
 
@@ -28,16 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-09-13 | 3 |
 | 2026-09-14 | 3 |
 | 2026-09-15 | 2 |
-| 2026-09-16 | 1 |
+| 2026-09-16 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 69% |
-| Hash Table | 13 | 36% |
+| Array | 25 | 68% |
+| Hash Table | 13 | 35% |
 | Two Pointers | 7 | 19% |
-| Sorting | 6 | 17% |
+| Sorting | 6 | 16% |
 | Divide and Conquer | 5 | 14% |
 | Counting | 4 | 11% |
 | Linked List | 4 | 11% |
@@ -58,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 1 |
+| [Math](Topics/math/) | 2 |
 | [ordered-set](Topics/ordered-set/) | 0 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
