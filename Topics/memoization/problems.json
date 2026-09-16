@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "memoization",
+    "name": "Memoization"
+  },
+  "updatedAt": "2026-09-16T16:13:11.823Z",
+  "problems": [
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "6e7b3fa1098ef0138693ec2160d8ee8590bc9ec9",
+          "lastSyncedAt": "2026-09-16T16:13:11.823Z"
+        }
+      ]
+    }
+  ]
+}
