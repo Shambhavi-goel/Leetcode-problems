@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-16T16:29:06.303Z",
+  "updatedAt": "2026-09-17T17:28:29.732Z",
   "problems": [
     {
       "frontendId": "141",
@@ -163,6 +163,26 @@
           "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.cpp",
           "sha": "57a3fa615927cf302165edec50bb75b391d83cdf",
           "lastSyncedAt": "2026-09-14T16:49:42.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2351",
+      "title": "First Letter to Appear Twice",
+      "slug": "first-letter-to-appear-twice",
+      "problemName": "2351-first-letter-to-appear-twice",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+      "folderPath": "2351-first-letter-to-appear-twice/",
+      "readmePath": "2351-first-letter-to-appear-twice/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2351-first-letter-to-appear-twice.cpp",
+          "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.cpp",
+          "sha": "0bcc3e353bb0d7d9c2d04d190f23cbe4d6541f7a",
+          "lastSyncedAt": "2026-09-17T17:28:29.732Z"
         }
       ]
     },
