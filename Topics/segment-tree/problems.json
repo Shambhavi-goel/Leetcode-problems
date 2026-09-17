@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "segment-tree",
+    "name": "Segment Tree"
+  },
+  "updatedAt": "2026-09-17T16:55:00.254Z",
+  "problems": [
+    {
+      "frontendId": "3477",
+      "title": "Fruits Into Baskets II",
+      "slug": "fruits-into-baskets-ii",
+      "problemName": "3477-fruits-into-baskets-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+      "folderPath": "3477-fruits-into-baskets-ii/",
+      "readmePath": "3477-fruits-into-baskets-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3477-fruits-into-baskets-ii.cpp",
+          "path": "3477-fruits-into-baskets-ii/3477-fruits-into-baskets-ii.cpp",
+          "sha": "63b6ce5d2148706d2d983e24cbe2958ed003fd0c",
+          "lastSyncedAt": "2026-09-17T16:55:00.254Z"
+        }
+      ]
+    }
+  ]
+}
