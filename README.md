@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 26 | 14 | 0 |
+| 41 | 27 | 14 | 0 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-09-14 | 3 |
 | 2026-09-15 | 2 |
 | 2026-09-16 | 4 |
-| 2026-09-17 | 1 |
+| 2026-09-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 65% |
-| Hash Table | 14 | 35% |
-| Two Pointers | 7 | 18% |
+| Array | 27 | 66% |
+| Hash Table | 15 | 37% |
+| Two Pointers | 7 | 17% |
+| Counting | 6 | 15% |
 | Sorting | 6 | 15% |
-| Counting | 5 | 13% |
-| Divide and Conquer | 5 | 13% |
-| String | 5 | 13% |
+| Divide and Conquer | 5 | 12% |
+| String | 5 | 12% |
 | Dynamic Programming | 4 | 10% |
 | Linked List | 4 | 10% |
 | Math | 4 | 10% |
@@ -49,14 +49,14 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 11 |
 | [Binary Search](Topics/binary-search/) | 2 |
-| [Counting](Topics/counting/) | 5 |
+| [Counting](Topics/counting/) | 6 |
 | [Database](Topics/database/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 3 |
 | [Memoization](Topics/memoization/) | 1 |
@@ -66,6 +66,6 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
