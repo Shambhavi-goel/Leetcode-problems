@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-15T17:23:38.158Z",
+  "updatedAt": "2026-09-18T13:34:16.829Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "89a286c8a91144a0ff65c28066ce2bb312d49dda",
+          "lastSyncedAt": "2026-09-18T13:34:16.829Z"
+        }
+      ]
+    },
     {
       "frontendId": "83",
       "title": "Remove Duplicates from Sorted List",
