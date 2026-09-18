@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 28 | 14 | 0 |
+| 43 | 29 | 14 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 15 |
+| 8 days | 8 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-18 | 7 |
 | 2026-08-01 | 1 |
 | 2026-08-02 | 3 |
 | 2026-08-06 | 2 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-15 | 2 |
 | 2026-09-16 | 4 |
 | 2026-09-17 | 3 |
+| 2026-09-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 64% |
-| Hash Table | 15 | 36% |
-| Two Pointers | 7 | 17% |
+| Array | 27 | 63% |
+| Hash Table | 15 | 35% |
+| Two Pointers | 7 | 16% |
 | Counting | 6 | 14% |
+| Math | 6 | 14% |
 | Sorting | 6 | 14% |
 | Divide and Conquer | 5 | 12% |
 | Dynamic Programming | 5 | 12% |
-| Math | 5 | 12% |
 | String | 5 | 12% |
-| Linked List | 4 | 10% |
+| Linked List | 4 | 9% |
 
 ## Topics
 
@@ -58,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 11 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Queue](Topics/queue/) | 1 |
