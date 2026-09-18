@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 31 | 14 | 0 |
+| 46 | 32 | 14 | 0 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-15 | 2 |
 | 2026-09-16 | 4 |
 | 2026-09-17 | 3 |
-| 2026-09-18 | 3 |
+| 2026-09-18 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 60% |
+| Array | 27 | 59% |
 | Hash Table | 15 | 33% |
-| Two Pointers | 8 | 18% |
+| Two Pointers | 8 | 17% |
 | Counting | 6 | 13% |
 | Math | 6 | 13% |
 | Sorting | 6 | 13% |
 | String | 6 | 13% |
 | Divide and Conquer | 5 | 11% |
 | Dynamic Programming | 5 | 11% |
-| Binary Tree | 4 | 9% |
+| Linked List | 5 | 11% |
 
 ## Topics
 
@@ -60,12 +60,12 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 11 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 5 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Queue](Topics/queue/) | 1 |
-| [Recursion](Topics/recursion/) | 2 |
+| [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 5 |
