@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-19T17:53:38.175Z",
+  "updatedAt": "2026-09-19T18:03:39.234Z",
   "problems": [
     {
       "frontendId": "507",
@@ -123,6 +123,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "39eb1ef1bc8d04e0d730d36eec4a8ed59433dfc7",
           "lastSyncedAt": "2026-09-19T17:53:38.175Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "problemName": "1822-sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+      "folderPath": "1822-sign-of-the-product-of-an-array/",
+      "readmePath": "1822-sign-of-the-product-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1822-sign-of-the-product-of-an-array.cpp",
+          "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
+          "sha": "1ef354fb443725a3722d6e0768ddec939c8053fc",
+          "lastSyncedAt": "2026-09-19T18:03:39.234Z"
         }
       ]
     },
