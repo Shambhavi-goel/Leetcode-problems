@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sieve-theory",
+    "name": "Sieve Theory"
+  },
+  "updatedAt": "2026-09-19T17:26:31.329Z",
+  "problems": [
+    {
+      "frontendId": "1952",
+      "title": "Three Divisors",
+      "slug": "three-divisors",
+      "problemName": "1952-three-divisors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/three-divisors/",
+      "folderPath": "1952-three-divisors/",
+      "readmePath": "1952-three-divisors/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1952-three-divisors.cpp",
+          "path": "1952-three-divisors/1952-three-divisors.cpp",
+          "sha": "080766487ba74ba8e9f8d73e3752943ef5841a52",
+          "lastSyncedAt": "2026-09-19T17:26:31.329Z"
+        }
+      ]
+    }
+  ]
+}
