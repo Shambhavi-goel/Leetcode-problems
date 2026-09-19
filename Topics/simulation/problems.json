@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-17T16:55:00.254Z",
+  "updatedAt": "2026-09-19T17:36:55.096Z",
   "problems": [
+    {
+      "frontendId": "2180",
+      "title": "Count Integers With Even Digit Sum",
+      "slug": "count-integers-with-even-digit-sum",
+      "problemName": "2180-count-integers-with-even-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-integers-with-even-digit-sum/",
+      "folderPath": "2180-count-integers-with-even-digit-sum/",
+      "readmePath": "2180-count-integers-with-even-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2180-count-integers-with-even-digit-sum.cpp",
+          "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
+          "sha": "6bcee42b28811c40fd21104a8f415d76e849cf6f",
+          "lastSyncedAt": "2026-09-19T17:36:55.096Z"
+        }
+      ]
+    },
     {
       "frontendId": "3477",
       "title": "Fruits Into Baskets II",
