@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-19T17:36:55.096Z",
+  "updatedAt": "2026-09-19T17:50:25.569Z",
   "problems": [
     {
       "frontendId": "507",
@@ -103,6 +103,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "c72d0b7e567aa8155af8a6b0b1f9a18bdd4bbbfe",
           "lastSyncedAt": "2026-09-14T16:42:59.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1925",
+      "title": "Count Square Sum Triples",
+      "slug": "count-square-sum-triples",
+      "problemName": "1925-count-square-sum-triples",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-square-sum-triples/",
+      "folderPath": "1925-count-square-sum-triples/",
+      "readmePath": "1925-count-square-sum-triples/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1925-count-square-sum-triples.cpp",
+          "path": "1925-count-square-sum-triples/1925-count-square-sum-triples.cpp",
+          "sha": "698acda71b0a1e2bd3ff9ecd6535d080c9d38b1e",
+          "lastSyncedAt": "2026-09-19T17:50:25.569Z"
         }
       ]
     },
