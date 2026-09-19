@@ -4,8 +4,28 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-19T17:26:31.329Z",
+  "updatedAt": "2026-09-19T17:50:25.569Z",
   "problems": [
+    {
+      "frontendId": "1925",
+      "title": "Count Square Sum Triples",
+      "slug": "count-square-sum-triples",
+      "problemName": "1925-count-square-sum-triples",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-square-sum-triples/",
+      "folderPath": "1925-count-square-sum-triples/",
+      "readmePath": "1925-count-square-sum-triples/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1925-count-square-sum-triples.cpp",
+          "path": "1925-count-square-sum-triples/1925-count-square-sum-triples.cpp",
+          "sha": "698acda71b0a1e2bd3ff9ecd6535d080c9d38b1e",
+          "lastSyncedAt": "2026-09-19T17:50:25.569Z"
+        }
+      ]
+    },
     {
       "frontendId": "1952",
       "title": "Three Divisors",
