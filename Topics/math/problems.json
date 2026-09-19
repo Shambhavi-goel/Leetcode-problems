@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-19T17:26:31.329Z",
+  "updatedAt": "2026-09-19T17:36:55.096Z",
   "problems": [
     {
       "frontendId": "507",
@@ -123,6 +123,26 @@
           "path": "1952-three-divisors/1952-three-divisors.cpp",
           "sha": "080766487ba74ba8e9f8d73e3752943ef5841a52",
           "lastSyncedAt": "2026-09-19T17:26:31.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2180",
+      "title": "Count Integers With Even Digit Sum",
+      "slug": "count-integers-with-even-digit-sum",
+      "problemName": "2180-count-integers-with-even-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-integers-with-even-digit-sum/",
+      "folderPath": "2180-count-integers-with-even-digit-sum/",
+      "readmePath": "2180-count-integers-with-even-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2180-count-integers-with-even-digit-sum.cpp",
+          "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
+          "sha": "6bcee42b28811c40fd21104a8f415d76e849cf6f",
+          "lastSyncedAt": "2026-09-19T17:36:55.096Z"
         }
       ]
     }
