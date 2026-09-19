@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 32 | 14 | 0 |
+| 50 | 36 | 14 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 16 |
+| 9 days | 9 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-01 | 1 |
 | 2026-08-02 | 3 |
 | 2026-08-06 | 2 |
 | 2026-08-12 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-16 | 4 |
 | 2026-09-17 | 3 |
 | 2026-09-18 | 4 |
+| 2026-09-19 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 59% |
-| Hash Table | 15 | 33% |
-| Two Pointers | 8 | 17% |
-| Counting | 6 | 13% |
-| Math | 6 | 13% |
-| Sorting | 6 | 13% |
-| String | 6 | 13% |
-| Divide and Conquer | 5 | 11% |
-| Dynamic Programming | 5 | 11% |
-| Linked List | 5 | 11% |
+| Array | 27 | 54% |
+| Hash Table | 15 | 30% |
+| Math | 10 | 20% |
+| Two Pointers | 8 | 16% |
+| Counting | 6 | 12% |
+| Sorting | 6 | 12% |
+| String | 6 | 12% |
+| Divide and Conquer | 5 | 10% |
+| Dynamic Programming | 5 | 10% |
+| Linked List | 5 | 10% |
 
 ## Topics
 
@@ -57,17 +57,21 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 11 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 9 |
 | [Memoization](Topics/memoization/) | 2 |
+| [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
+| [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Sieve Theory](Topics/sieve-theory/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 1 |
