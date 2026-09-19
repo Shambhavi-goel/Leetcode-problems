@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-19T18:03:39.234Z",
+  "updatedAt": "2026-09-19T18:08:41.157Z",
   "problems": [
     {
       "frontendId": "507",
@@ -203,6 +203,26 @@
           "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "6bcee42b28811c40fd21104a8f415d76e849cf6f",
           "lastSyncedAt": "2026-09-19T17:36:55.096Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2469",
+      "title": "Convert the Temperature",
+      "slug": "convert-the-temperature",
+      "problemName": "2469-convert-the-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+      "folderPath": "2469-convert-the-temperature/",
+      "readmePath": "2469-convert-the-temperature/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2469-convert-the-temperature.cpp",
+          "path": "2469-convert-the-temperature/2469-convert-the-temperature.cpp",
+          "sha": "d33e082d39f4c0d1b5966e907746d8b4dfb1ee51",
+          "lastSyncedAt": "2026-09-19T18:08:41.157Z"
         }
       ]
     }
