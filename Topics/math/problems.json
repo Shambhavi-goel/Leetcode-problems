@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-20T17:39:46.965Z",
+  "updatedAt": "2026-09-20T17:55:28.139Z",
   "problems": [
     {
       "frontendId": "202",
@@ -183,6 +183,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "39eb1ef1bc8d04e0d730d36eec4a8ed59433dfc7",
           "lastSyncedAt": "2026-09-19T17:53:38.175Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1688",
+      "title": "Count of Matches in Tournament",
+      "slug": "count-of-matches-in-tournament",
+      "problemName": "1688-count-of-matches-in-tournament",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+      "folderPath": "1688-count-of-matches-in-tournament/",
+      "readmePath": "1688-count-of-matches-in-tournament/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1688-count-of-matches-in-tournament.cpp",
+          "path": "1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.cpp",
+          "sha": "b875aec24875e5b09420ad443a5c5c0aaea2b6ad",
+          "lastSyncedAt": "2026-09-20T17:55:28.139Z"
         }
       ]
     },
