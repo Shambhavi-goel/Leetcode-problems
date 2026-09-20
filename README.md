@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 41 | 14 | 0 |
+| 56 | 42 | 14 | 0 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 3 |
 | 2026-09-18 | 4 |
 | 2026-09-19 | 6 |
-| 2026-09-20 | 3 |
+| 2026-09-20 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 55% |
+| Array | 30 | 54% |
 | Hash Table | 16 | 29% |
-| Math | 15 | 27% |
+| Math | 16 | 29% |
 | Two Pointers | 9 | 16% |
 | Counting | 6 | 11% |
 | Sorting | 6 | 11% |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 14 |
+| [Math](Topics/math/) | 15 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
@@ -71,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sorting](Topics/sorting/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 1 |
