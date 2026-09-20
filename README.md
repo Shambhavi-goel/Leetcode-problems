@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 36 | 14 | 0 |
+| 54 | 40 | 14 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 17 |
+| 10 days | 10 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-02 | 3 |
 | 2026-08-06 | 2 |
 | 2026-08-12 | 1 |
 | 2026-08-17 | 2 |
@@ -28,28 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-09-16 | 4 |
 | 2026-09-17 | 3 |
 | 2026-09-18 | 4 |
-| 2026-09-19 | 4 |
+| 2026-09-19 | 6 |
+| 2026-09-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 54% |
-| Hash Table | 15 | 30% |
-| Math | 10 | 20% |
-| Two Pointers | 8 | 16% |
-| Counting | 6 | 12% |
-| Sorting | 6 | 12% |
-| String | 6 | 12% |
-| Divide and Conquer | 5 | 10% |
-| Dynamic Programming | 5 | 10% |
-| Linked List | 5 | 10% |
+| Array | 29 | 54% |
+| Hash Table | 16 | 30% |
+| Math | 14 | 26% |
+| Two Pointers | 9 | 17% |
+| Counting | 6 | 11% |
+| Sorting | 6 | 11% |
+| String | 6 | 11% |
+| Divide and Conquer | 5 | 9% |
+| Dynamic Programming | 5 | 9% |
+| Linked List | 5 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 13 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
@@ -58,11 +58,11 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 13 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
@@ -75,5 +75,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 6 |
+| [Two Pointers](Topics/two-pointers/) | 7 |
 <!---LeetHub Summary End-->
