@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 40 | 14 | 0 |
+| 55 | 41 | 14 | 0 |
 
 ## Activity
 
@@ -28,16 +28,16 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 3 |
 | 2026-09-18 | 4 |
 | 2026-09-19 | 6 |
-| 2026-09-20 | 2 |
+| 2026-09-20 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 54% |
-| Hash Table | 16 | 30% |
-| Math | 14 | 26% |
-| Two Pointers | 9 | 17% |
+| Array | 30 | 55% |
+| Hash Table | 16 | 29% |
+| Math | 15 | 27% |
+| Two Pointers | 9 | 16% |
 | Counting | 6 | 11% |
 | Sorting | 6 | 11% |
 | String | 6 | 11% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 14 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 13 |
+| [Math](Topics/math/) | 14 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
