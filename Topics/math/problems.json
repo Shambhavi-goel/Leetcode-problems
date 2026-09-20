@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-19T18:08:41.157Z",
+  "updatedAt": "2026-09-20T17:26:43.032Z",
   "problems": [
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "0202-happy-number/",
+      "readmePath": "0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0202-happy-number.cpp",
+          "path": "0202-happy-number/0202-happy-number.cpp",
+          "sha": "9c6613dcc4b0428411899d3a73ef18b011d9f00c",
+          "lastSyncedAt": "2026-09-20T17:26:43.032Z"
+        }
+      ]
+    },
     {
       "frontendId": "507",
       "title": "Perfect Number",
