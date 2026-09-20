@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-20T17:31:48.671Z",
+  "updatedAt": "2026-09-20T17:39:46.965Z",
   "problems": [
     {
       "frontendId": "202",
@@ -123,6 +123,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.cpp",
           "sha": "9e80d3b63356174a708439a492d9b790ea109ea5",
           "lastSyncedAt": "2026-09-20T17:31:48.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1304",
+      "title": "Find N Unique Integers Sum up to Zero",
+      "slug": "find-n-unique-integers-sum-up-to-zero",
+      "problemName": "1304-find-n-unique-integers-sum-up-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/",
+      "folderPath": "1304-find-n-unique-integers-sum-up-to-zero/",
+      "readmePath": "1304-find-n-unique-integers-sum-up-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1304-find-n-unique-integers-sum-up-to-zero.cpp",
+          "path": "1304-find-n-unique-integers-sum-up-to-zero/1304-find-n-unique-integers-sum-up-to-zero.cpp",
+          "sha": "e90bf29d1769496fe50e1218221fea40a8fddb87",
+          "lastSyncedAt": "2026-09-20T17:39:46.965Z"
         }
       ]
     },
