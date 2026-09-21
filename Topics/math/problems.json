@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-20T17:55:28.139Z",
+  "updatedAt": "2026-09-21T18:22:53.501Z",
   "problems": [
     {
       "frontendId": "202",
@@ -303,6 +303,26 @@
           "path": "2469-convert-the-temperature/2469-convert-the-temperature.cpp",
           "sha": "d33e082d39f4c0d1b5966e907746d8b4dfb1ee51",
           "lastSyncedAt": "2026-09-19T18:08:41.157Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3591",
+      "title": "Check if Any Element Has Prime Frequency",
+      "slug": "check-if-any-element-has-prime-frequency",
+      "problemName": "3591-check-if-any-element-has-prime-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-any-element-has-prime-frequency/",
+      "folderPath": "3591-check-if-any-element-has-prime-frequency/",
+      "readmePath": "3591-check-if-any-element-has-prime-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3591-check-if-any-element-has-prime-frequency.cpp",
+          "path": "3591-check-if-any-element-has-prime-frequency/3591-check-if-any-element-has-prime-frequency.cpp",
+          "sha": "69aee559eb086db2cdf994860a78fb00cbf285a1",
+          "lastSyncedAt": "2026-09-21T18:22:53.501Z"
         }
       ]
     }
