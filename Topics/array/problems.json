@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-20T17:39:46.965Z",
+  "updatedAt": "2026-09-21T18:11:06.749Z",
   "problems": [
     {
       "frontendId": "15",
@@ -223,6 +223,26 @@
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
           "sha": "1ef354fb443725a3722d6e0768ddec939c8053fc",
           "lastSyncedAt": "2026-09-19T18:03:39.234Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2148",
+      "title": "Count Elements With Strictly Smaller and Greater Elements ",
+      "slug": "count-elements-with-strictly-smaller-and-greater-elements",
+      "problemName": "2148-count-elements-with-strictly-smaller-and-greater-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
+      "folderPath": "2148-count-elements-with-strictly-smaller-and-greater-elements/",
+      "readmePath": "2148-count-elements-with-strictly-smaller-and-greater-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2148-count-elements-with-strictly-smaller-and-greater-elements.cpp",
+          "path": "2148-count-elements-with-strictly-smaller-and-greater-elements/2148-count-elements-with-strictly-smaller-and-greater-elements.cpp",
+          "sha": "74335890d37582ff93f0d48e96fbbab55053bf94",
+          "lastSyncedAt": "2026-09-21T18:11:06.749Z"
         }
       ]
     },
