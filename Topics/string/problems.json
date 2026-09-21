@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-18T08:22:08.802Z",
+  "updatedAt": "2026-09-21T18:01:56.036Z",
   "problems": [
     {
       "frontendId": "125",
@@ -123,6 +123,26 @@
           "path": "0520-detect-capital/0520-detect-capital.cpp",
           "sha": "d40e8fd49ee9c19faf27a3b9f0bfe0caf2de8d34",
           "lastSyncedAt": "2026-09-13T10:33:44.986Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2283",
+      "title": "Check if Number Has Equal Digit Count and Digit Value",
+      "slug": "check-if-number-has-equal-digit-count-and-digit-value",
+      "problemName": "2283-check-if-number-has-equal-digit-count-and-digit-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/",
+      "folderPath": "2283-check-if-number-has-equal-digit-count-and-digit-value/",
+      "readmePath": "2283-check-if-number-has-equal-digit-count-and-digit-value/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2283-check-if-number-has-equal-digit-count-and-digit-value.cpp",
+          "path": "2283-check-if-number-has-equal-digit-count-and-digit-value/2283-check-if-number-has-equal-digit-count-and-digit-value.cpp",
+          "sha": "6b563f78c172ed8aaefc1f0ceab635ec79f00b21",
+          "lastSyncedAt": "2026-09-21T18:01:56.036Z"
         }
       ]
     },
