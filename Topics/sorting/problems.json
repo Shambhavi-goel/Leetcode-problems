@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-16T15:32:04.479Z",
+  "updatedAt": "2026-09-21T18:11:06.749Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,6 +83,26 @@
           "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
           "sha": "9bea0b3d97761e66168189ee3aa6b6ca47ab0a3c",
           "lastSyncedAt": "2026-09-11T18:51:31.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2148",
+      "title": "Count Elements With Strictly Smaller and Greater Elements ",
+      "slug": "count-elements-with-strictly-smaller-and-greater-elements",
+      "problemName": "2148-count-elements-with-strictly-smaller-and-greater-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
+      "folderPath": "2148-count-elements-with-strictly-smaller-and-greater-elements/",
+      "readmePath": "2148-count-elements-with-strictly-smaller-and-greater-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2148-count-elements-with-strictly-smaller-and-greater-elements.cpp",
+          "path": "2148-count-elements-with-strictly-smaller-and-greater-elements/2148-count-elements-with-strictly-smaller-and-greater-elements.cpp",
+          "sha": "74335890d37582ff93f0d48e96fbbab55053bf94",
+          "lastSyncedAt": "2026-09-21T18:11:06.749Z"
         }
       ]
     },
