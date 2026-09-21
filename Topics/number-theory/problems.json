@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-19T17:26:31.329Z",
+  "updatedAt": "2026-09-21T18:22:53.501Z",
   "problems": [
     {
       "frontendId": "1952",
@@ -23,6 +23,26 @@
           "path": "1952-three-divisors/1952-three-divisors.cpp",
           "sha": "080766487ba74ba8e9f8d73e3752943ef5841a52",
           "lastSyncedAt": "2026-09-19T17:26:31.329Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3591",
+      "title": "Check if Any Element Has Prime Frequency",
+      "slug": "check-if-any-element-has-prime-frequency",
+      "problemName": "3591-check-if-any-element-has-prime-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-any-element-has-prime-frequency/",
+      "folderPath": "3591-check-if-any-element-has-prime-frequency/",
+      "readmePath": "3591-check-if-any-element-has-prime-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3591-check-if-any-element-has-prime-frequency.cpp",
+          "path": "3591-check-if-any-element-has-prime-frequency/3591-check-if-any-element-has-prime-frequency.cpp",
+          "sha": "69aee559eb086db2cdf994860a78fb00cbf285a1",
+          "lastSyncedAt": "2026-09-21T18:22:53.501Z"
         }
       ]
     }
