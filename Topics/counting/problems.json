@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-21T18:22:53.501Z",
+  "updatedAt": "2026-09-22T15:48:30.244Z",
   "problems": [
     {
       "frontendId": "383",
@@ -163,6 +163,26 @@
           "path": "2404-most-frequent-even-element/2404-most-frequent-even-element.cpp",
           "sha": "3489f9f9472762fdde02279fa83380d9aeda8646",
           "lastSyncedAt": "2026-09-17T17:45:48.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "problemName": "3005-count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-maximum-frequency/",
+      "folderPath": "3005-count-elements-with-maximum-frequency/",
+      "readmePath": "3005-count-elements-with-maximum-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3005-count-elements-with-maximum-frequency.cpp",
+          "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.cpp",
+          "sha": "f1a10da8ec4cbc7f659716481e1b27a1ab5cfb4c",
+          "lastSyncedAt": "2026-09-22T15:48:30.244Z"
         }
       ]
     },
