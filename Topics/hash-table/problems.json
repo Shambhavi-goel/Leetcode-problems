@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-22T15:48:30.244Z",
+  "updatedAt": "2026-09-22T17:14:51.007Z",
   "problems": [
     {
       "frontendId": "141",
@@ -203,6 +203,26 @@
           "path": "2283-check-if-number-has-equal-digit-count-and-digit-value/2283-check-if-number-has-equal-digit-count-and-digit-value.cpp",
           "sha": "6b563f78c172ed8aaefc1f0ceab635ec79f00b21",
           "lastSyncedAt": "2026-09-21T18:01:56.036Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2347",
+      "title": "Best Poker Hand",
+      "slug": "best-poker-hand",
+      "problemName": "2347-best-poker-hand",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-poker-hand/",
+      "folderPath": "2347-best-poker-hand/",
+      "readmePath": "2347-best-poker-hand/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2347-best-poker-hand.cpp",
+          "path": "2347-best-poker-hand/2347-best-poker-hand.cpp",
+          "sha": "913166304c531f6dc73724f7044f09a1355f0662",
+          "lastSyncedAt": "2026-09-22T17:14:51.007Z"
         }
       ]
     },
