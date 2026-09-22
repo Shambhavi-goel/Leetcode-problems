@@ -4,8 +4,28 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-20T17:55:28.139Z",
+  "updatedAt": "2026-09-22T17:23:47.302Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "0258-add-digits/0258-add-digits.cpp",
+          "sha": "cad890d1aef6f26f08961534ba0d0ca8f757f202",
+          "lastSyncedAt": "2026-09-22T17:23:47.302Z"
+        }
+      ]
+    },
     {
       "frontendId": "1688",
       "title": "Count of Matches in Tournament",
