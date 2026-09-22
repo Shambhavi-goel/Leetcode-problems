@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 47 | 14 | 0 |
+| 62 | 48 | 14 | 0 |
 
 ## Activity
 
@@ -28,15 +28,15 @@ Contains topicwise list of solved problems.
 | 2026-09-19 | 6 |
 | 2026-09-20 | 4 |
 | 2026-09-21 | 3 |
-| 2026-09-22 | 2 |
+| 2026-09-22 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 56% |
-| Hash Table | 20 | 33% |
-| Math | 17 | 28% |
+| Array | 34 | 55% |
+| Hash Table | 20 | 32% |
+| Math | 18 | 29% |
 | Counting | 11 | 18% |
 | Two Pointers | 9 | 15% |
 | Sorting | 7 | 11% |
@@ -62,16 +62,16 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 16 |
+| [Math](Topics/math/) | 17 |
 | [Memoization](Topics/memoization/) | 2 |
-| [Number Theory](Topics/number-theory/) | 2 |
+| [Number Theory](Topics/number-theory/) | 3 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 3 |
+| [Simulation](Topics/simulation/) | 4 |
 | [Sorting](Topics/sorting/) | 6 |
 | [String](Topics/string/) | 8 |
 | [Tree](Topics/tree/) | 1 |
