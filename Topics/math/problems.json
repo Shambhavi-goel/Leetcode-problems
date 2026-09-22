@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-21T18:22:53.501Z",
+  "updatedAt": "2026-09-22T17:23:47.302Z",
   "problems": [
     {
       "frontendId": "202",
@@ -23,6 +23,26 @@
           "path": "0202-happy-number/0202-happy-number.cpp",
           "sha": "9c6613dcc4b0428411899d3a73ef18b011d9f00c",
           "lastSyncedAt": "2026-09-20T17:26:43.032Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "0258-add-digits/0258-add-digits.cpp",
+          "sha": "cad890d1aef6f26f08961534ba0d0ca8f757f202",
+          "lastSyncedAt": "2026-09-22T17:23:47.302Z"
         }
       ]
     },
