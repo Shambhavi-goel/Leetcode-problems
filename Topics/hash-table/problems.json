@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-22T17:39:15.550Z",
+  "updatedAt": "2026-09-23T17:58:37.327Z",
   "problems": [
     {
       "frontendId": "141",
@@ -343,6 +343,26 @@
           "path": "3663-find-the-least-frequent-digit/3663-find-the-least-frequent-digit.cpp",
           "sha": "1dc9fe4c54c418de9c1a66960f62601319feb716",
           "lastSyncedAt": "2026-09-22T17:39:15.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3852",
+      "title": "Smallest Pair With Different Frequencies",
+      "slug": "smallest-pair-with-different-frequencies",
+      "problemName": "3852-smallest-pair-with-different-frequencies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-pair-with-different-frequencies/",
+      "folderPath": "3852-smallest-pair-with-different-frequencies/",
+      "readmePath": "3852-smallest-pair-with-different-frequencies/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3852-smallest-pair-with-different-frequencies.cpp",
+          "path": "3852-smallest-pair-with-different-frequencies/3852-smallest-pair-with-different-frequencies.cpp",
+          "sha": "24c0a13cb3702f2a23e332bfb6899676c3b0cc89",
+          "lastSyncedAt": "2026-09-23T17:58:37.327Z"
         }
       ]
     }
