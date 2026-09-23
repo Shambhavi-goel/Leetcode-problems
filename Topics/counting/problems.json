@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-22T17:39:15.550Z",
+  "updatedAt": "2026-09-23T17:45:07.892Z",
   "problems": [
     {
       "frontendId": "383",
@@ -243,6 +243,26 @@
           "path": "3663-find-the-least-frequent-digit/3663-find-the-least-frequent-digit.cpp",
           "sha": "1dc9fe4c54c418de9c1a66960f62601319feb716",
           "lastSyncedAt": "2026-09-22T17:39:15.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3978",
+      "title": "Unique Middle Element",
+      "slug": "unique-middle-element",
+      "problemName": "3978-unique-middle-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-middle-element/",
+      "folderPath": "3978-unique-middle-element/",
+      "readmePath": "3978-unique-middle-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3978-unique-middle-element.cpp",
+          "path": "3978-unique-middle-element/3978-unique-middle-element.cpp",
+          "sha": "f7181b81e8bfbabce8a4af37ba663ced50524ff5",
+          "lastSyncedAt": "2026-09-23T17:45:07.892Z"
         }
       ]
     }
