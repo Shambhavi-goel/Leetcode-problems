@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 48 | 14 | 0 |
+| 66 | 52 | 14 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 12 days | 20 |
+| 13 days | 13 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-17 | 2 |
 | 2026-09-09 | 3 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 3 |
@@ -28,17 +27,18 @@ Contains topicwise list of solved problems.
 | 2026-09-19 | 6 |
 | 2026-09-20 | 4 |
 | 2026-09-21 | 3 |
-| 2026-09-22 | 3 |
+| 2026-09-22 | 4 |
+| 2026-09-23 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 55% |
-| Hash Table | 20 | 32% |
-| Math | 18 | 29% |
-| Counting | 11 | 18% |
-| Two Pointers | 9 | 15% |
+| Array | 38 | 58% |
+| Hash Table | 23 | 35% |
+| Math | 19 | 29% |
+| Counting | 15 | 23% |
+| Two Pointers | 9 | 14% |
 | Sorting | 7 | 11% |
 | String | 7 | 11% |
 | Divide and Conquer | 5 | 8% |
@@ -49,20 +49,20 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 22 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
-| [Counting](Topics/counting/) | 11 |
+| [Counting](Topics/counting/) | 15 |
 | [Database](Topics/database/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 16 |
+| [Hash Table](Topics/hash-table/) | 19 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 17 |
+| [Math](Topics/math/) | 18 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 3 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
