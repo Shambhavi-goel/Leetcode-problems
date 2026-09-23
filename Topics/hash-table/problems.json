@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-23T17:58:37.327Z",
+  "updatedAt": "2026-09-23T18:03:55.081Z",
   "problems": [
     {
       "frontendId": "141",
@@ -343,6 +343,26 @@
           "path": "3663-find-the-least-frequent-digit/3663-find-the-least-frequent-digit.cpp",
           "sha": "1dc9fe4c54c418de9c1a66960f62601319feb716",
           "lastSyncedAt": "2026-09-22T17:39:15.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3712",
+      "title": "Sum of Elements With Frequency Divisible by K",
+      "slug": "sum-of-elements-with-frequency-divisible-by-k",
+      "problemName": "3712-sum-of-elements-with-frequency-divisible-by-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/",
+      "folderPath": "3712-sum-of-elements-with-frequency-divisible-by-k/",
+      "readmePath": "3712-sum-of-elements-with-frequency-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3712-sum-of-elements-with-frequency-divisible-by-k.cpp",
+          "path": "3712-sum-of-elements-with-frequency-divisible-by-k/3712-sum-of-elements-with-frequency-divisible-by-k.cpp",
+          "sha": "093b31f32a30192f9cdca455de29b27cd27a6f07",
+          "lastSyncedAt": "2026-09-23T18:03:55.081Z"
         }
       ]
     },
