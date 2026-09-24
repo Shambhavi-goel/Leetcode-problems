@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T15:05:31.388Z",
+  "updatedAt": "2026-09-24T16:50:56.136Z",
   "problems": [
     {
       "frontendId": "15",
@@ -123,6 +123,26 @@
           "path": "0605-can-place-flowers/0605-can-place-flowers.cpp",
           "sha": "8b431df5a5eae1dd290c4c5c9be5c21cc46972d9",
           "lastSyncedAt": "2026-09-15T17:54:06.029Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0645-set-mismatch.cpp",
+          "path": "0645-set-mismatch/0645-set-mismatch.cpp",
+          "sha": "37b896c13a97210aea0ab6ebaa7d084ac0a97f35",
+          "lastSyncedAt": "2026-09-24T16:50:56.136Z"
         }
       ]
     },
