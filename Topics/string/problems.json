@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-21T18:01:56.036Z",
+  "updatedAt": "2026-09-24T15:30:29.839Z",
   "problems": [
     {
       "frontendId": "125",
@@ -123,6 +123,26 @@
           "path": "0520-detect-capital/0520-detect-capital.cpp",
           "sha": "d40e8fd49ee9c19faf27a3b9f0bfe0caf2de8d34",
           "lastSyncedAt": "2026-09-13T10:33:44.986Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1941",
+      "title": "Check if All Characters Have Equal Number of Occurrences",
+      "slug": "check-if-all-characters-have-equal-number-of-occurrences",
+      "problemName": "1941-check-if-all-characters-have-equal-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/",
+      "folderPath": "1941-check-if-all-characters-have-equal-number-of-occurrences/",
+      "readmePath": "1941-check-if-all-characters-have-equal-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1941-check-if-all-characters-have-equal-number-of-occurrences.cpp",
+          "path": "1941-check-if-all-characters-have-equal-number-of-occurrences/1941-check-if-all-characters-have-equal-number-of-occurrences.cpp",
+          "sha": "1ae909759db3fcc73f1c191a2460e65eabc6606a",
+          "lastSyncedAt": "2026-09-24T15:30:29.839Z"
         }
       ]
     },
