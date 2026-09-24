@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation"
+  },
+  "updatedAt": "2026-09-24T16:50:56.136Z",
+  "problems": [
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0645-set-mismatch.cpp",
+          "path": "0645-set-mismatch/0645-set-mismatch.cpp",
+          "sha": "37b896c13a97210aea0ab6ebaa7d084ac0a97f35",
+          "lastSyncedAt": "2026-09-24T16:50:56.136Z"
+        }
+      ]
+    }
+  ]
+}
