@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T15:30:29.839Z",
+  "updatedAt": "2026-09-24T16:50:56.136Z",
   "problems": [
     {
       "frontendId": "141",
@@ -123,6 +123,26 @@
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "8c0a8d232c7f26f7dd97afaedcbb842e77135691",
           "lastSyncedAt": "2026-09-16T16:29:06.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0645-set-mismatch.cpp",
+          "path": "0645-set-mismatch/0645-set-mismatch.cpp",
+          "sha": "37b896c13a97210aea0ab6ebaa7d084ac0a97f35",
+          "lastSyncedAt": "2026-09-24T16:50:56.136Z"
         }
       ]
     },
