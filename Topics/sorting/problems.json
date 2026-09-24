@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T15:05:31.388Z",
+  "updatedAt": "2026-09-24T16:50:56.136Z",
   "problems": [
     {
       "frontendId": "15",
@@ -83,6 +83,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "5343af48c2d9928fea5cf5a6d9e209f252c3369c",
           "lastSyncedAt": "2026-09-24T15:05:31.388Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "problemName": "0645-set-mismatch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/set-mismatch/",
+      "folderPath": "0645-set-mismatch/",
+      "readmePath": "0645-set-mismatch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0645-set-mismatch.cpp",
+          "path": "0645-set-mismatch/0645-set-mismatch.cpp",
+          "sha": "37b896c13a97210aea0ab6ebaa7d084ac0a97f35",
+          "lastSyncedAt": "2026-09-24T16:50:56.136Z"
         }
       ]
     },
