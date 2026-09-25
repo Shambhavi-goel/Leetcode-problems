@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-24T15:05:31.388Z",
+  "updatedAt": "2026-09-25T17:31:18.696Z",
   "problems": [
     {
       "frontendId": "347",
@@ -23,6 +23,26 @@
           "path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.cpp",
           "sha": "5343af48c2d9928fea5cf5a6d9e209f252c3369c",
           "lastSyncedAt": "2026-09-24T15:05:31.388Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0451-sort-characters-by-frequency.cpp",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
+          "sha": "52f74d9ac5940f0e9b83414e6aec25173646611f",
+          "lastSyncedAt": "2026-09-25T17:31:18.696Z"
         }
       ]
     }
