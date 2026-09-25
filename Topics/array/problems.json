@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T16:50:56.136Z",
+  "updatedAt": "2026-09-25T17:43:40.284Z",
   "problems": [
     {
       "frontendId": "15",
@@ -363,6 +363,26 @@
           "path": "2404-most-frequent-even-element/2404-most-frequent-even-element.cpp",
           "sha": "3489f9f9472762fdde02279fa83380d9aeda8646",
           "lastSyncedAt": "2026-09-17T17:45:48.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2529",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "slug": "maximum-count-of-positive-integer-and-negative-integer",
+      "problemName": "2529-maximum-count-of-positive-integer-and-negative-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/",
+      "folderPath": "2529-maximum-count-of-positive-integer-and-negative-integer/",
+      "readmePath": "2529-maximum-count-of-positive-integer-and-negative-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
+          "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
+          "sha": "6d6320ea140d5ccd7c664195c156a9f08e354c09",
+          "lastSyncedAt": "2026-09-25T17:43:40.284Z"
         }
       ]
     },
