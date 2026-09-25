@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-25T17:31:18.696Z",
+  "updatedAt": "2026-09-25T17:39:53.861Z",
   "problems": [
     {
       "frontendId": "125",
@@ -203,6 +203,26 @@
           "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.cpp",
           "sha": "0bcc3e353bb0d7d9c2d04d190f23cbe4d6541f7a",
           "lastSyncedAt": "2026-09-17T17:28:29.732Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3541",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "slug": "find-most-frequent-vowel-and-consonant",
+      "problemName": "3541-find-most-frequent-vowel-and-consonant",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/",
+      "folderPath": "3541-find-most-frequent-vowel-and-consonant/",
+      "readmePath": "3541-find-most-frequent-vowel-and-consonant/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3541-find-most-frequent-vowel-and-consonant.cpp",
+          "path": "3541-find-most-frequent-vowel-and-consonant/3541-find-most-frequent-vowel-and-consonant.cpp",
+          "sha": "9e2ce1eec159a4b6b87e5e74885fd3f3e6950534",
+          "lastSyncedAt": "2026-09-25T17:39:53.861Z"
         }
       ]
     }
