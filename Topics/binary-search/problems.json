@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-17T16:55:00.254Z",
+  "updatedAt": "2026-09-25T17:43:40.284Z",
   "problems": [
     {
       "frontendId": "1346",
@@ -23,6 +23,26 @@
           "path": "1346-check-if-n-and-its-double-exist/1346-check-if-n-and-its-double-exist.cpp",
           "sha": "9bea0b3d97761e66168189ee3aa6b6ca47ab0a3c",
           "lastSyncedAt": "2026-09-11T18:51:31.620Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2529",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "slug": "maximum-count-of-positive-integer-and-negative-integer",
+      "problemName": "2529-maximum-count-of-positive-integer-and-negative-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/",
+      "folderPath": "2529-maximum-count-of-positive-integer-and-negative-integer/",
+      "readmePath": "2529-maximum-count-of-positive-integer-and-negative-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
+          "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
+          "sha": "6d6320ea140d5ccd7c664195c156a9f08e354c09",
+          "lastSyncedAt": "2026-09-25T17:43:40.284Z"
         }
       ]
     },
