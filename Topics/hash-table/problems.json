@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-25T17:39:53.861Z",
+  "updatedAt": "2026-09-26T18:00:32.887Z",
   "problems": [
     {
       "frontendId": "141",
@@ -143,6 +143,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "52f74d9ac5940f0e9b83414e6aec25173646611f",
           "lastSyncedAt": "2026-09-25T17:31:18.696Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0496-next-greater-element-i.cpp",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.cpp",
+          "sha": "b5b029b9026860667f3a1a287817ebcc9b50e5c8",
+          "lastSyncedAt": "2026-09-26T18:00:32.887Z"
         }
       ]
     },
