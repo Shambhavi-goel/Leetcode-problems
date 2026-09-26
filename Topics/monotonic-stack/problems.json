@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack"
+  },
+  "updatedAt": "2026-09-26T18:00:32.887Z",
+  "problems": [
+    {
+      "frontendId": "496",
+      "title": "Next Greater Element I",
+      "slug": "next-greater-element-i",
+      "problemName": "0496-next-greater-element-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
+      "folderPath": "0496-next-greater-element-i/",
+      "readmePath": "0496-next-greater-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0496-next-greater-element-i.cpp",
+          "path": "0496-next-greater-element-i/0496-next-greater-element-i.cpp",
+          "sha": "b5b029b9026860667f3a1a287817ebcc9b50e5c8",
+          "lastSyncedAt": "2026-09-26T18:00:32.887Z"
+        }
+      ]
+    }
+  ]
+}
