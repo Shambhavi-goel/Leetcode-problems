@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-25T17:39:53.861Z",
+  "updatedAt": "2026-09-26T18:49:39.156Z",
   "problems": [
     {
       "frontendId": "125",
@@ -143,6 +143,26 @@
           "path": "0520-detect-capital/0520-detect-capital.cpp",
           "sha": "d40e8fd49ee9c19faf27a3b9f0bfe0caf2de8d34",
           "lastSyncedAt": "2026-09-13T10:33:44.986Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1154",
+      "title": "Day of the Year",
+      "slug": "day-of-the-year",
+      "problemName": "1154-day-of-the-year",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/day-of-the-year/",
+      "folderPath": "1154-day-of-the-year/",
+      "readmePath": "1154-day-of-the-year/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1154-day-of-the-year.cpp",
+          "path": "1154-day-of-the-year/1154-day-of-the-year.cpp",
+          "sha": "b11fe00e0060fdf14b31b1359a6ec327ad24386e",
+          "lastSyncedAt": "2026-09-26T18:49:39.156Z"
         }
       ]
     },
