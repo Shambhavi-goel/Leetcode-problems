@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-22T17:39:15.550Z",
+  "updatedAt": "2026-09-26T18:49:39.156Z",
   "problems": [
     {
       "frontendId": "202",
@@ -123,6 +123,26 @@
           "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.cpp",
           "sha": "e67bf7b6fa3025a5dc160143c87482ca1bf0023a",
           "lastSyncedAt": "2026-09-17T18:04:13.865Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1154",
+      "title": "Day of the Year",
+      "slug": "day-of-the-year",
+      "problemName": "1154-day-of-the-year",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/day-of-the-year/",
+      "folderPath": "1154-day-of-the-year/",
+      "readmePath": "1154-day-of-the-year/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1154-day-of-the-year.cpp",
+          "path": "1154-day-of-the-year/1154-day-of-the-year.cpp",
+          "sha": "b11fe00e0060fdf14b31b1359a6ec327ad24386e",
+          "lastSyncedAt": "2026-09-26T18:49:39.156Z"
         }
       ]
     },
