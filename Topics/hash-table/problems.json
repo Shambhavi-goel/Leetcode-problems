@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-26T18:12:48.885Z",
+  "updatedAt": "2026-09-27T17:21:28.600Z",
   "problems": [
     {
       "frontendId": "141",
@@ -43,6 +43,26 @@
           "path": "0202-happy-number/0202-happy-number.cpp",
           "sha": "9c6613dcc4b0428411899d3a73ef18b011d9f00c",
           "lastSyncedAt": "2026-09-20T17:26:43.032Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "0205-isomorphic-strings/",
+      "readmePath": "0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0205-isomorphic-strings.cpp",
+          "path": "0205-isomorphic-strings/0205-isomorphic-strings.cpp",
+          "sha": "998daa95c8fa8dfd8d5afc9f6b02ca8c6c8c7d46",
+          "lastSyncedAt": "2026-09-27T17:21:28.600Z"
         }
       ]
     },
