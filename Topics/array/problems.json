@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T18:12:48.885Z",
+  "updatedAt": "2026-09-27T18:06:33.838Z",
   "problems": [
     {
       "frontendId": "15",
@@ -243,6 +243,26 @@
           "path": "1394-find-lucky-integer-in-an-array/1394-find-lucky-integer-in-an-array.cpp",
           "sha": "a5b76d5bd401d205c91f50ece9be7de51bf7ba5a",
           "lastSyncedAt": "2026-09-14T16:40:21.076Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1470-shuffle-the-array.cpp",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.cpp",
+          "sha": "a8343ad35aa8c170ee62495bff76151e28bb4633",
+          "lastSyncedAt": "2026-09-27T18:06:33.838Z"
         }
       ]
     },
