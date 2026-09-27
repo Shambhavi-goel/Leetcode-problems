@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T18:49:39.156Z",
+  "updatedAt": "2026-09-27T17:30:40.312Z",
   "problems": [
     {
       "frontendId": "125",
@@ -103,6 +103,26 @@
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.cpp",
           "sha": "8c0a8d232c7f26f7dd97afaedcbb842e77135691",
           "lastSyncedAt": "2026-09-16T16:29:06.303Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "434",
+      "title": "Number of Segments in a String",
+      "slug": "number-of-segments-in-a-string",
+      "problemName": "0434-number-of-segments-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-segments-in-a-string/",
+      "folderPath": "0434-number-of-segments-in-a-string/",
+      "readmePath": "0434-number-of-segments-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0434-number-of-segments-in-a-string.cpp",
+          "path": "0434-number-of-segments-in-a-string/0434-number-of-segments-in-a-string.cpp",
+          "sha": "bd8067863fd1d03d912ddaa8563508c1785e9b45",
+          "lastSyncedAt": "2026-09-27T17:30:40.312Z"
         }
       ]
     },
