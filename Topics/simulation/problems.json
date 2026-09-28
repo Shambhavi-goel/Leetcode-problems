@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-22T17:23:47.302Z",
+  "updatedAt": "2026-09-28T17:52:30.696Z",
   "problems": [
     {
       "frontendId": "258",
@@ -23,6 +23,26 @@
           "path": "0258-add-digits/0258-add-digits.cpp",
           "sha": "cad890d1aef6f26f08961534ba0d0ca8f757f202",
           "lastSyncedAt": "2026-09-22T17:23:47.302Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1646",
+      "title": "Get Maximum in Generated Array",
+      "slug": "get-maximum-in-generated-array",
+      "problemName": "1646-get-maximum-in-generated-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/get-maximum-in-generated-array/",
+      "folderPath": "1646-get-maximum-in-generated-array/",
+      "readmePath": "1646-get-maximum-in-generated-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1646-get-maximum-in-generated-array.cpp",
+          "path": "1646-get-maximum-in-generated-array/1646-get-maximum-in-generated-array.cpp",
+          "sha": "cee3e09a3bba5889ea2c2f2b8456b34acdec6b61",
+          "lastSyncedAt": "2026-09-28T17:52:30.696Z"
         }
       ]
     },
