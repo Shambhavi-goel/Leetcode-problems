@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-27T18:06:33.838Z",
+  "updatedAt": "2026-09-28T17:33:50.849Z",
   "problems": [
     {
       "frontendId": "15",
@@ -303,6 +303,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "c72d0b7e567aa8155af8a6b0b1f9a18bdd4bbbfe",
           "lastSyncedAt": "2026-09-14T16:42:59.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "1672-richest-customer-wealth/",
+      "readmePath": "1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1672-richest-customer-wealth.cpp",
+          "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.cpp",
+          "sha": "a8898f309a1d2efc475af98800844dacfbc8c1ff",
+          "lastSyncedAt": "2026-09-28T17:33:50.849Z"
         }
       ]
     },
