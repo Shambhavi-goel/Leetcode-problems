@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 78 | 62 | 16 | 0 |
+| 80 | 64 | 16 | 0 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-09-25 | 3 |
 | 2026-09-26 | 2 |
 | 2026-09-27 | 3 |
-| 2026-09-28 | 1 |
+| 2026-09-28 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 58% |
+| Array | 47 | 59% |
 | Hash Table | 30 | 38% |
-| Counting | 21 | 27% |
-| Math | 20 | 26% |
+| Counting | 21 | 26% |
+| Math | 20 | 25% |
 | String | 12 | 15% |
 | Sorting | 10 | 13% |
-| Two Pointers | 9 | 12% |
+| Two Pointers | 9 | 11% |
 | Divide and Conquer | 6 | 8% |
 | Dynamic Programming | 5 | 6% |
 | Linked List | 5 | 6% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 33 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -79,7 +79,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 4 |
+| [Simulation](Topics/simulation/) | 5 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 13 |
