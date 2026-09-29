@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T18:03:33.950Z",
+  "updatedAt": "2026-09-29T17:41:56.581Z",
   "problems": [
     {
       "frontendId": "15",
@@ -543,6 +543,26 @@
           "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
           "sha": "6d6320ea140d5ccd7c664195c156a9f08e354c09",
           "lastSyncedAt": "2026-09-25T17:43:40.284Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3000",
+      "title": "Maximum Area of Longest Diagonal Rectangle",
+      "slug": "maximum-area-of-longest-diagonal-rectangle",
+      "problemName": "3000-maximum-area-of-longest-diagonal-rectangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/",
+      "folderPath": "3000-maximum-area-of-longest-diagonal-rectangle/",
+      "readmePath": "3000-maximum-area-of-longest-diagonal-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3000-maximum-area-of-longest-diagonal-rectangle.cpp",
+          "path": "3000-maximum-area-of-longest-diagonal-rectangle/3000-maximum-area-of-longest-diagonal-rectangle.cpp",
+          "sha": "a6e8d48e2891460fbecad269c1a57ab4b7f98ed4",
+          "lastSyncedAt": "2026-09-29T17:41:56.581Z"
         }
       ]
     },
