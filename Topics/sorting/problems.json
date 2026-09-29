@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-25T17:31:18.696Z",
+  "updatedAt": "2026-09-29T17:55:50.862Z",
   "problems": [
     {
       "frontendId": "15",
@@ -183,6 +183,26 @@
           "path": "2363-merge-similar-items/2363-merge-similar-items.cpp",
           "sha": "7b90d1a4be203363d6888145e2045a68d4d19b43",
           "lastSyncedAt": "2026-09-11T18:29:04.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "problemName": "2824-count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/",
+      "folderPath": "2824-count-pairs-whose-sum-is-less-than-target/",
+      "readmePath": "2824-count-pairs-whose-sum-is-less-than-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2824-count-pairs-whose-sum-is-less-than-target.cpp",
+          "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.cpp",
+          "sha": "b702ce43ea795a3a15b0f300557255057899a2b6",
+          "lastSyncedAt": "2026-09-29T17:55:50.862Z"
         }
       ]
     }
