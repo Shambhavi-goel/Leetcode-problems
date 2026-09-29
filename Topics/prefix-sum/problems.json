@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-09-29T18:01:36.605Z",
+  "problems": [
+    {
+      "frontendId": "2873",
+      "title": "Maximum Value of an Ordered Triplet I",
+      "slug": "maximum-value-of-an-ordered-triplet-i",
+      "problemName": "2873-maximum-value-of-an-ordered-triplet-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/",
+      "folderPath": "2873-maximum-value-of-an-ordered-triplet-i/",
+      "readmePath": "2873-maximum-value-of-an-ordered-triplet-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2873-maximum-value-of-an-ordered-triplet-i.cpp",
+          "path": "2873-maximum-value-of-an-ordered-triplet-i/2873-maximum-value-of-an-ordered-triplet-i.cpp",
+          "sha": "bc712ee2849a072f2a23a92bbe6a250077694c5d",
+          "lastSyncedAt": "2026-09-29T18:01:36.605Z"
+        }
+      ]
+    }
+  ]
+}
