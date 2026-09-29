@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T17:55:50.862Z",
+  "updatedAt": "2026-09-29T18:01:36.605Z",
   "problems": [
     {
       "frontendId": "15",
@@ -563,6 +563,26 @@
           "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.cpp",
           "sha": "b702ce43ea795a3a15b0f300557255057899a2b6",
           "lastSyncedAt": "2026-09-29T17:55:50.862Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2873",
+      "title": "Maximum Value of an Ordered Triplet I",
+      "slug": "maximum-value-of-an-ordered-triplet-i",
+      "problemName": "2873-maximum-value-of-an-ordered-triplet-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/",
+      "folderPath": "2873-maximum-value-of-an-ordered-triplet-i/",
+      "readmePath": "2873-maximum-value-of-an-ordered-triplet-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2873-maximum-value-of-an-ordered-triplet-i.cpp",
+          "path": "2873-maximum-value-of-an-ordered-triplet-i/2873-maximum-value-of-an-ordered-triplet-i.cpp",
+          "sha": "bc712ee2849a072f2a23a92bbe6a250077694c5d",
+          "lastSyncedAt": "2026-09-29T18:01:36.605Z"
         }
       ]
     },
