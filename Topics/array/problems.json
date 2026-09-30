@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:43:47.647Z",
+  "updatedAt": "2026-09-30T17:53:51.248Z",
   "problems": [
     {
       "frontendId": "15",
@@ -463,6 +463,26 @@
           "path": "2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.cpp",
           "sha": "cc8270a2727d7fd9d7cdd1833a51bfd94bf18aeb",
           "lastSyncedAt": "2026-09-26T18:12:48.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2016",
+      "title": "Maximum Difference Between Increasing Elements",
+      "slug": "maximum-difference-between-increasing-elements",
+      "problemName": "2016-maximum-difference-between-increasing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-difference-between-increasing-elements/",
+      "folderPath": "2016-maximum-difference-between-increasing-elements/",
+      "readmePath": "2016-maximum-difference-between-increasing-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2016-maximum-difference-between-increasing-elements.cpp",
+          "path": "2016-maximum-difference-between-increasing-elements/2016-maximum-difference-between-increasing-elements.cpp",
+          "sha": "8ce6e779628d5759445db82dbf956ecbae630c0d",
+          "lastSyncedAt": "2026-09-30T17:53:51.248Z"
         }
       ]
     },
