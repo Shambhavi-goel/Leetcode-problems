@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:53:51.248Z",
+  "updatedAt": "2026-09-30T18:09:03.766Z",
   "problems": [
     {
       "frontendId": "15",
@@ -603,6 +603,26 @@
           "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
           "sha": "6d6320ea140d5ccd7c664195c156a9f08e354c09",
           "lastSyncedAt": "2026-09-25T17:43:40.284Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2798",
+      "title": "Number of Employees Who Met the Target",
+      "slug": "number-of-employees-who-met-the-target",
+      "problemName": "2798-number-of-employees-who-met-the-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-employees-who-met-the-target/",
+      "folderPath": "2798-number-of-employees-who-met-the-target/",
+      "readmePath": "2798-number-of-employees-who-met-the-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2798-number-of-employees-who-met-the-target.cpp",
+          "path": "2798-number-of-employees-who-met-the-target/2798-number-of-employees-who-met-the-target.cpp",
+          "sha": "c989247f591c8fddc0cf5f4d820439e5777ebb9c",
+          "lastSyncedAt": "2026-09-30T18:09:03.766Z"
         }
       ]
     },
