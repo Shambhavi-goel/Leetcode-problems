@@ -4,8 +4,28 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-28T17:33:50.849Z",
+  "updatedAt": "2026-09-30T17:40:42.705Z",
   "problems": [
+    {
+      "frontendId": "1351",
+      "title": "Count Negative Numbers in a Sorted Matrix",
+      "slug": "count-negative-numbers-in-a-sorted-matrix",
+      "problemName": "1351-count-negative-numbers-in-a-sorted-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+      "folderPath": "1351-count-negative-numbers-in-a-sorted-matrix/",
+      "readmePath": "1351-count-negative-numbers-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1351-count-negative-numbers-in-a-sorted-matrix.cpp",
+          "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
+          "sha": "6def929d83d67670d2225e375dbad0dd0685ddf9",
+          "lastSyncedAt": "2026-09-30T17:40:42.705Z"
+        }
+      ]
+    },
     {
       "frontendId": "1672",
       "title": "Richest Customer Wealth",
