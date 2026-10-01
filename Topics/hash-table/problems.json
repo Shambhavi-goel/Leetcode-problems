@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-27T17:21:28.600Z",
+  "updatedAt": "2026-10-01T13:56:10.405Z",
   "problems": [
     {
       "frontendId": "141",
@@ -443,6 +443,26 @@
           "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.cpp",
           "sha": "f1a10da8ec4cbc7f659716481e1b27a1ab5cfb4c",
           "lastSyncedAt": "2026-09-22T15:48:30.244Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3162",
+      "title": "Find the Number of Good Pairs I",
+      "slug": "find-the-number-of-good-pairs-i",
+      "problemName": "3162-find-the-number-of-good-pairs-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-good-pairs-i/",
+      "folderPath": "3162-find-the-number-of-good-pairs-i/",
+      "readmePath": "3162-find-the-number-of-good-pairs-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3162-find-the-number-of-good-pairs-i.cpp",
+          "path": "3162-find-the-number-of-good-pairs-i/3162-find-the-number-of-good-pairs-i.cpp",
+          "sha": "c3324f64c95904ab48323cefccc63dbfb6df7b21",
+          "lastSyncedAt": "2026-10-01T13:56:10.405Z"
         }
       ]
     },
