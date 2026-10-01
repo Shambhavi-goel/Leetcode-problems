@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T18:09:03.766Z",
+  "updatedAt": "2026-10-01T13:06:34.997Z",
   "problems": [
     {
       "frontendId": "15",
@@ -343,6 +343,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "c72d0b7e567aa8155af8a6b0b1f9a18bdd4bbbfe",
           "lastSyncedAt": "2026-09-14T16:42:59.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1550",
+      "title": "Three Consecutive Odds",
+      "slug": "three-consecutive-odds",
+      "problemName": "1550-three-consecutive-odds",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/three-consecutive-odds/",
+      "folderPath": "1550-three-consecutive-odds/",
+      "readmePath": "1550-three-consecutive-odds/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1550-three-consecutive-odds.cpp",
+          "path": "1550-three-consecutive-odds/1550-three-consecutive-odds.cpp",
+          "sha": "5eb51bf7582aea9c50ac66aee1bd22af9af69767",
+          "lastSyncedAt": "2026-10-01T13:06:34.997Z"
         }
       ]
     },
