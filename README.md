@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 88 | 72 | 16 | 0 |
+| 92 | 76 | 16 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 20 days | 20 days | 28 |
+| 21 days | 21 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-17 | 3 |
 | 2026-09-18 | 4 |
 | 2026-09-19 | 6 |
 | 2026-09-20 | 4 |
@@ -29,30 +28,32 @@ Contains topicwise list of solved problems.
 | 2026-09-28 | 4 |
 | 2026-09-29 | 3 |
 | 2026-09-30 | 4 |
+| 2026-10-01 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 55 | 63% |
-| Hash Table | 30 | 34% |
-| Counting | 21 | 24% |
-| Math | 20 | 23% |
-| Sorting | 12 | 14% |
-| String | 12 | 14% |
+| Array | 58 | 63% |
+| Hash Table | 30 | 33% |
+| Counting | 21 | 23% |
+| Math | 20 | 22% |
+| Sorting | 13 | 14% |
+| String | 13 | 14% |
 | Two Pointers | 10 | 11% |
-| Binary Search | 6 | 7% |
+| Binary Search | 7 | 8% |
 | Divide and Conquer | 6 | 7% |
-| Dynamic Programming | 5 | 6% |
+| Dynamic Programming | 5 | 5% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 41 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Array](Topics/array/) | 44 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 21 |
@@ -80,9 +81,9 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
-| [Sorting](Topics/sorting/) | 11 |
-| [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 13 |
+| [Sorting](Topics/sorting/) | 12 |
+| [Stack](Topics/stack/) | 2 |
+| [String](Topics/string/) | 14 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
