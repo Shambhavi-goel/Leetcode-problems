@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-30T17:40:42.705Z",
+  "updatedAt": "2026-10-01T13:49:35.233Z",
   "problems": [
     {
       "frontendId": "1346",
@@ -43,6 +43,26 @@
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
           "sha": "6def929d83d67670d2225e375dbad0dd0685ddf9",
           "lastSyncedAt": "2026-09-30T17:40:42.705Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "2089-find-target-indices-after-sorting-array/",
+      "readmePath": "2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2089-find-target-indices-after-sorting-array.cpp",
+          "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
+          "sha": "1197cb6d40fe430166045bb0c4e33aaa22d93de8",
+          "lastSyncedAt": "2026-10-01T13:49:35.233Z"
         }
       ]
     },
