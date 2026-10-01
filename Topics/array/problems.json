@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-01T13:06:34.997Z",
+  "updatedAt": "2026-10-01T13:13:45.724Z",
   "problems": [
     {
       "frontendId": "15",
@@ -163,6 +163,26 @@
           "path": "0645-set-mismatch/0645-set-mismatch.cpp",
           "sha": "37b896c13a97210aea0ab6ebaa7d084ac0a97f35",
           "lastSyncedAt": "2026-09-24T16:50:56.136Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1287",
+      "title": "Element Appearing More Than 25% In Sorted Array",
+      "slug": "element-appearing-more-than-25-in-sorted-array",
+      "problemName": "1287-element-appearing-more-than-25-in-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/",
+      "folderPath": "1287-element-appearing-more-than-25-in-sorted-array/",
+      "readmePath": "1287-element-appearing-more-than-25-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1287-element-appearing-more-than-25-in-sorted-array.cpp",
+          "path": "1287-element-appearing-more-than-25-in-sorted-array/1287-element-appearing-more-than-25-in-sorted-array.cpp",
+          "sha": "9ac452ccbc684db3e776e01f43e91ac90c32edf1",
+          "lastSyncedAt": "2026-10-01T13:13:45.724Z"
         }
       ]
     },
