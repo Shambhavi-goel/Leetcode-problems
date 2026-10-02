@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T15:37:26.946Z",
+  "updatedAt": "2026-10-02T15:42:58.015Z",
   "problems": [
     {
       "frontendId": "15",
@@ -843,6 +843,26 @@
           "path": "3663-find-the-least-frequent-digit/3663-find-the-least-frequent-digit.cpp",
           "sha": "1dc9fe4c54c418de9c1a66960f62601319feb716",
           "lastSyncedAt": "2026-09-22T17:39:15.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3701",
+      "title": "Compute Alternating Sum",
+      "slug": "compute-alternating-sum",
+      "problemName": "3701-compute-alternating-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/compute-alternating-sum/",
+      "folderPath": "3701-compute-alternating-sum/",
+      "readmePath": "3701-compute-alternating-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3701-compute-alternating-sum.cpp",
+          "path": "3701-compute-alternating-sum/3701-compute-alternating-sum.cpp",
+          "sha": "c2d7e7c8bf53777164833d132911f750d1bb8c81",
+          "lastSyncedAt": "2026-10-02T15:42:58.015Z"
         }
       ]
     },
