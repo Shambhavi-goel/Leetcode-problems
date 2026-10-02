@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-01T13:33:05.780Z",
+  "updatedAt": "2026-10-02T15:23:33.314Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,6 +23,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.cpp",
           "sha": "74e8e4404e1d5c9e3826e425d6ac83fdee2fb5c4",
           "lastSyncedAt": "2026-10-01T13:33:05.780Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0022-generate-parentheses.cpp",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
+          "sha": "ed8a208295ae877051d5d87b4035f5d53b00b2d7",
+          "lastSyncedAt": "2026-10-02T15:23:33.314Z"
         }
       ]
     },
