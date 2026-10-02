@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-01T13:56:10.405Z",
+  "updatedAt": "2026-10-02T15:37:26.946Z",
   "problems": [
     {
       "frontendId": "15",
@@ -883,6 +883,26 @@
           "path": "3852-smallest-pair-with-different-frequencies/3852-smallest-pair-with-different-frequencies.cpp",
           "sha": "24c0a13cb3702f2a23e332bfb6899676c3b0cc89",
           "lastSyncedAt": "2026-09-23T17:58:37.327Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3880",
+      "title": "Minimum Absolute Difference Between Two Values",
+      "slug": "minimum-absolute-difference-between-two-values",
+      "problemName": "3880-minimum-absolute-difference-between-two-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-between-two-values/",
+      "folderPath": "3880-minimum-absolute-difference-between-two-values/",
+      "readmePath": "3880-minimum-absolute-difference-between-two-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3880-minimum-absolute-difference-between-two-values.cpp",
+          "path": "3880-minimum-absolute-difference-between-two-values/3880-minimum-absolute-difference-between-two-values.cpp",
+          "sha": "dab862c7ace423176a885fb7e833488270b118a8",
+          "lastSyncedAt": "2026-10-02T15:37:26.946Z"
         }
       ]
     },
