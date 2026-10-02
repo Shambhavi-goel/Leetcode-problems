@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 96 | 79 | 17 | 0 |
+| 97 | 80 | 17 | 0 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-09-29 | 3 |
 | 2026-09-30 | 4 |
 | 2026-10-01 | 5 |
-| 2026-10-02 | 3 |
+| 2026-10-02 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 61 | 64% |
+| Array | 62 | 64% |
 | Hash Table | 31 | 32% |
 | Counting | 21 | 22% |
-| Math | 20 | 21% |
-| String | 14 | 15% |
-| Sorting | 13 | 14% |
+| Math | 21 | 22% |
+| String | 14 | 14% |
+| Sorting | 13 | 13% |
 | Two Pointers | 10 | 10% |
 | Binary Search | 7 | 7% |
 | Divide and Conquer | 6 | 6% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 47 |
+| [Array](Topics/array/) | 48 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 28 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 19 |
+| [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
