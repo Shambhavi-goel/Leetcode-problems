@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-02T16:16:32.789Z",
+  "updatedAt": "2026-10-03T16:22:10.506Z",
   "problems": [
     {
       "frontendId": "15",
@@ -543,6 +543,26 @@
           "path": "2057-smallest-index-with-equal-value/2057-smallest-index-with-equal-value.cpp",
           "sha": "f19d6d173bcae40cb91aec04d4d17717f98893d1",
           "lastSyncedAt": "2026-09-28T18:03:33.950Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2085",
+      "title": "Count Common Words With One Occurrence",
+      "slug": "count-common-words-with-one-occurrence",
+      "problemName": "2085-count-common-words-with-one-occurrence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-common-words-with-one-occurrence/",
+      "folderPath": "2085-count-common-words-with-one-occurrence/",
+      "readmePath": "2085-count-common-words-with-one-occurrence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2085-count-common-words-with-one-occurrence.cpp",
+          "path": "2085-count-common-words-with-one-occurrence/2085-count-common-words-with-one-occurrence.cpp",
+          "sha": "2b21e86843b7ffbfe7ba683e608d0898d1fb56c8",
+          "lastSyncedAt": "2026-10-03T16:22:10.506Z"
         }
       ]
     },
