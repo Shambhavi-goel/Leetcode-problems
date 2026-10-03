@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-03T16:22:10.506Z",
+  "updatedAt": "2026-10-03T16:41:30.996Z",
   "problems": [
     {
       "frontendId": "15",
@@ -683,6 +683,26 @@
           "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
           "sha": "6d6320ea140d5ccd7c664195c156a9f08e354c09",
           "lastSyncedAt": "2026-09-25T17:43:40.284Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2678",
+      "title": "Number of Senior Citizens",
+      "slug": "number-of-senior-citizens",
+      "problemName": "2678-number-of-senior-citizens",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-senior-citizens/",
+      "folderPath": "2678-number-of-senior-citizens/",
+      "readmePath": "2678-number-of-senior-citizens/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2678-number-of-senior-citizens.cpp",
+          "path": "2678-number-of-senior-citizens/2678-number-of-senior-citizens.cpp",
+          "sha": "0e15753482200d2af368cf338c3242f2544842d2",
+          "lastSyncedAt": "2026-10-03T16:41:30.996Z"
         }
       ]
     },
