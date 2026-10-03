@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T16:34:33.787Z",
+  "updatedAt": "2026-10-03T16:41:30.996Z",
   "problems": [
     {
       "frontendId": "20",
@@ -323,6 +323,26 @@
           "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.cpp",
           "sha": "0bcc3e353bb0d7d9c2d04d190f23cbe4d6541f7a",
           "lastSyncedAt": "2026-09-17T17:28:29.732Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2678",
+      "title": "Number of Senior Citizens",
+      "slug": "number-of-senior-citizens",
+      "problemName": "2678-number-of-senior-citizens",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-senior-citizens/",
+      "folderPath": "2678-number-of-senior-citizens/",
+      "readmePath": "2678-number-of-senior-citizens/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2678-number-of-senior-citizens.cpp",
+          "path": "2678-number-of-senior-citizens/2678-number-of-senior-citizens.cpp",
+          "sha": "0e15753482200d2af368cf338c3242f2544842d2",
+          "lastSyncedAt": "2026-10-03T16:41:30.996Z"
         }
       ]
     },
