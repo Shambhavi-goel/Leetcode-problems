@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-03T16:41:30.996Z",
+  "updatedAt": "2026-10-03T16:45:18.182Z",
   "problems": [
     {
       "frontendId": "15",
@@ -703,6 +703,26 @@
           "path": "2678-number-of-senior-citizens/2678-number-of-senior-citizens.cpp",
           "sha": "0e15753482200d2af368cf338c3242f2544842d2",
           "lastSyncedAt": "2026-10-03T16:41:30.996Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2778-sum-of-squares-of-special-elements.cpp",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
+          "sha": "bd7d9ffd6dd024c4ce8b1e255f8f2372bb74341d",
+          "lastSyncedAt": "2026-10-03T16:45:18.182Z"
         }
       ]
     },
