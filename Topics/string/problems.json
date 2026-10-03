@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T16:22:10.506Z",
+  "updatedAt": "2026-10-03T16:34:33.787Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,6 +43,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "ed8a208295ae877051d5d87b4035f5d53b00b2d7",
           "lastSyncedAt": "2026-10-02T15:23:33.314Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0032-longest-valid-parentheses.cpp",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.cpp",
+          "sha": "98899ff7e93f042e640d0d7624d37d4ea4dc6d99",
+          "lastSyncedAt": "2026-10-03T16:34:33.787Z"
         }
       ]
     },
