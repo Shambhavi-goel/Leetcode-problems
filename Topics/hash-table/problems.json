@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-01T13:56:10.405Z",
+  "updatedAt": "2026-10-03T16:22:10.506Z",
   "problems": [
     {
       "frontendId": "141",
@@ -323,6 +323,26 @@
           "path": "2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.cpp",
           "sha": "cc8270a2727d7fd9d7cdd1833a51bfd94bf18aeb",
           "lastSyncedAt": "2026-09-26T18:12:48.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2085",
+      "title": "Count Common Words With One Occurrence",
+      "slug": "count-common-words-with-one-occurrence",
+      "problemName": "2085-count-common-words-with-one-occurrence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-common-words-with-one-occurrence/",
+      "folderPath": "2085-count-common-words-with-one-occurrence/",
+      "readmePath": "2085-count-common-words-with-one-occurrence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2085-count-common-words-with-one-occurrence.cpp",
+          "path": "2085-count-common-words-with-one-occurrence/2085-count-common-words-with-one-occurrence.cpp",
+          "sha": "2b21e86843b7ffbfe7ba683e608d0898d1fb56c8",
+          "lastSyncedAt": "2026-10-03T16:22:10.506Z"
         }
       ]
     },
