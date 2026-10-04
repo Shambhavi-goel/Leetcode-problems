@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-03T16:34:33.787Z",
+  "updatedAt": "2026-10-04T12:14:47.278Z",
   "problems": [
     {
       "frontendId": "22",
@@ -83,6 +83,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "6e7b3fa1098ef0138693ec2160d8ee8590bc9ec9",
           "lastSyncedAt": "2026-09-16T16:13:11.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0678-valid-parenthesis-string.cpp",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
+          "sha": "c94daf73e43a0e574e019dd843ac898f3077d3d3",
+          "lastSyncedAt": "2026-10-04T12:14:47.278Z"
         }
       ]
     },
