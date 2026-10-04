@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-04T10:50:56.322Z",
+  "updatedAt": "2026-10-04T10:55:33.335Z",
   "problems": [
     {
       "frontendId": "15",
@@ -663,6 +663,26 @@
           "path": "2363-merge-similar-items/2363-merge-similar-items.cpp",
           "sha": "7b90d1a4be203363d6888145e2045a68d4d19b43",
           "lastSyncedAt": "2026-09-11T18:29:04.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2367",
+      "title": "Number of Arithmetic Triplets",
+      "slug": "number-of-arithmetic-triplets",
+      "problemName": "2367-number-of-arithmetic-triplets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-arithmetic-triplets/",
+      "folderPath": "2367-number-of-arithmetic-triplets/",
+      "readmePath": "2367-number-of-arithmetic-triplets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2367-number-of-arithmetic-triplets.cpp",
+          "path": "2367-number-of-arithmetic-triplets/2367-number-of-arithmetic-triplets.cpp",
+          "sha": "0c23be4022c3f4b8e7573dcbe0fa8d2b51d04109",
+          "lastSyncedAt": "2026-10-04T10:55:33.335Z"
         }
       ]
     },
