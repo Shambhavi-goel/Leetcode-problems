@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-30T17:43:47.647Z",
+  "updatedAt": "2026-10-04T11:15:15.983Z",
   "problems": [
     {
       "frontendId": "347",
@@ -63,6 +63,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "7968e7ec752742f8db102cea9004f298774d750c",
           "lastSyncedAt": "2026-09-30T17:43:47.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2558",
+      "title": "Take Gifts From the Richest Pile",
+      "slug": "take-gifts-from-the-richest-pile",
+      "problemName": "2558-take-gifts-from-the-richest-pile",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/",
+      "folderPath": "2558-take-gifts-from-the-richest-pile/",
+      "readmePath": "2558-take-gifts-from-the-richest-pile/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2558-take-gifts-from-the-richest-pile.cpp",
+          "path": "2558-take-gifts-from-the-richest-pile/2558-take-gifts-from-the-richest-pile.cpp",
+          "sha": "ea75a0a61d24c060c96ed77628c65336c50a0cfb",
+          "lastSyncedAt": "2026-10-04T11:15:15.983Z"
         }
       ]
     }
