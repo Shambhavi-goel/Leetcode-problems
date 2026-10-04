@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-04T11:06:23.420Z",
+  "updatedAt": "2026-10-04T11:15:15.983Z",
   "problems": [
     {
       "frontendId": "15",
@@ -743,6 +743,26 @@
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.cpp",
           "sha": "bc5a0b9681cb6161b099e395e8067f3f724c98bd",
           "lastSyncedAt": "2026-10-04T11:06:23.420Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2558",
+      "title": "Take Gifts From the Richest Pile",
+      "slug": "take-gifts-from-the-richest-pile",
+      "problemName": "2558-take-gifts-from-the-richest-pile",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/",
+      "folderPath": "2558-take-gifts-from-the-richest-pile/",
+      "readmePath": "2558-take-gifts-from-the-richest-pile/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2558-take-gifts-from-the-richest-pile.cpp",
+          "path": "2558-take-gifts-from-the-richest-pile/2558-take-gifts-from-the-richest-pile.cpp",
+          "sha": "ea75a0a61d24c060c96ed77628c65336c50a0cfb",
+          "lastSyncedAt": "2026-10-04T11:15:15.983Z"
         }
       ]
     },
