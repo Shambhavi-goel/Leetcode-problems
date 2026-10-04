@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-10-02T15:42:58.015Z",
+  "updatedAt": "2026-10-04T11:06:23.420Z",
   "problems": [
     {
       "frontendId": "258",
@@ -83,6 +83,26 @@
           "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "6bcee42b28811c40fd21104a8f415d76e849cf6f",
           "lastSyncedAt": "2026-09-19T17:36:55.096Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2553",
+      "title": "Separate the Digits in an Array",
+      "slug": "separate-the-digits-in-an-array",
+      "problemName": "2553-separate-the-digits-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/separate-the-digits-in-an-array/",
+      "folderPath": "2553-separate-the-digits-in-an-array/",
+      "readmePath": "2553-separate-the-digits-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2553-separate-the-digits-in-an-array.cpp",
+          "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.cpp",
+          "sha": "bc5a0b9681cb6161b099e395e8067f3f724c98bd",
+          "lastSyncedAt": "2026-10-04T11:06:23.420Z"
         }
       ]
     },
