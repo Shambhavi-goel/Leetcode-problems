@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "quicksort",
+    "name": "Quicksort"
+  },
+  "updatedAt": "2026-10-04T10:50:56.322Z",
+  "problems": [
+    {
+      "frontendId": "1913",
+      "title": "Maximum Product Difference Between Two Pairs",
+      "slug": "maximum-product-difference-between-two-pairs",
+      "problemName": "1913-maximum-product-difference-between-two-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-difference-between-two-pairs/",
+      "folderPath": "1913-maximum-product-difference-between-two-pairs/",
+      "readmePath": "1913-maximum-product-difference-between-two-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1913-maximum-product-difference-between-two-pairs.cpp",
+          "path": "1913-maximum-product-difference-between-two-pairs/1913-maximum-product-difference-between-two-pairs.cpp",
+          "sha": "ee73c4ddb87162f6ccc1bf4d0ba744dfdd40dd42",
+          "lastSyncedAt": "2026-10-04T10:50:56.322Z"
+        }
+      ]
+    }
+  ]
+}
