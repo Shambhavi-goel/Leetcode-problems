@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-04T11:15:15.983Z",
+  "updatedAt": "2026-10-04T11:19:42.238Z",
   "problems": [
     {
       "frontendId": "15",
@@ -783,6 +783,26 @@
           "path": "2678-number-of-senior-citizens/2678-number-of-senior-citizens.cpp",
           "sha": "0e15753482200d2af368cf338c3242f2544842d2",
           "lastSyncedAt": "2026-10-03T16:41:30.996Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2706",
+      "title": "Buy Two Chocolates",
+      "slug": "buy-two-chocolates",
+      "problemName": "2706-buy-two-chocolates",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/buy-two-chocolates/",
+      "folderPath": "2706-buy-two-chocolates/",
+      "readmePath": "2706-buy-two-chocolates/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2706-buy-two-chocolates.cpp",
+          "path": "2706-buy-two-chocolates/2706-buy-two-chocolates.cpp",
+          "sha": "4e756c8ed04f11a827835cac425b3056dc4f854d",
+          "lastSyncedAt": "2026-10-04T11:19:42.238Z"
         }
       ]
     },
