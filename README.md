@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 107 | 89 | 17 | 1 |
+| 108 | 89 | 18 | 1 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-01 | 5 |
 | 2026-10-02 | 4 |
 | 2026-10-03 | 4 |
-| 2026-10-04 | 6 |
+| 2026-10-04 | 7 |
 
 ## Top Tags
 
@@ -36,14 +36,14 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 71 | 66% |
 | Hash Table | 33 | 31% |
-| Counting | 22 | 21% |
-| Math | 21 | 20% |
-| String | 17 | 16% |
+| Counting | 22 | 20% |
+| Math | 21 | 19% |
+| String | 18 | 17% |
 | Sorting | 15 | 14% |
 | Two Pointers | 12 | 11% |
+| Dynamic Programming | 8 | 7% |
 | Simulation | 8 | 7% |
-| Binary Search | 7 | 7% |
-| Dynamic Programming | 7 | 7% |
+| Binary Search | 7 | 6% |
 
 ## Topics
 
@@ -54,17 +54,17 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 22 |
 | [Database](Topics/database/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Enumeration](Topics/enumeration/) | 5 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
-| [Greedy](Topics/greedy/) | 2 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 30 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 5 |
@@ -84,8 +84,8 @@ Contains topicwise list of solved problems.
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
 | [Sorting](Topics/sorting/) | 14 |
-| [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 18 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 19 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 <!---LeetHub Summary End-->
