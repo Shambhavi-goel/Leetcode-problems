@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-04T11:19:42.238Z",
+  "updatedAt": "2026-10-04T12:14:47.278Z",
   "problems": [
     {
       "frontendId": "605",
@@ -23,6 +23,26 @@
           "path": "0605-can-place-flowers/0605-can-place-flowers.cpp",
           "sha": "8b431df5a5eae1dd290c4c5c9be5c21cc46972d9",
           "lastSyncedAt": "2026-09-15T17:54:06.029Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0678-valid-parenthesis-string.cpp",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.cpp",
+          "sha": "c94daf73e43a0e574e019dd843ac898f3077d3d3",
+          "lastSyncedAt": "2026-10-04T12:14:47.278Z"
         }
       ]
     },
