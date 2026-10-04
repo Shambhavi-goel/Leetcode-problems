@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-04T11:19:42.238Z",
+  "updatedAt": "2026-10-04T11:24:45.017Z",
   "problems": [
     {
       "frontendId": "15",
@@ -883,6 +883,26 @@
           "path": "2873-maximum-value-of-an-ordered-triplet-i/2873-maximum-value-of-an-ordered-triplet-i.cpp",
           "sha": "bc712ee2849a072f2a23a92bbe6a250077694c5d",
           "lastSyncedAt": "2026-09-29T18:01:36.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2903",
+      "title": "Find Indices With Index and Value Difference I",
+      "slug": "find-indices-with-index-and-value-difference-i",
+      "problemName": "2903-find-indices-with-index-and-value-difference-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/",
+      "folderPath": "2903-find-indices-with-index-and-value-difference-i/",
+      "readmePath": "2903-find-indices-with-index-and-value-difference-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2903-find-indices-with-index-and-value-difference-i.cpp",
+          "path": "2903-find-indices-with-index-and-value-difference-i/2903-find-indices-with-index-and-value-difference-i.cpp",
+          "sha": "736692f08d90a15dee799df06b74c70870325d25",
+          "lastSyncedAt": "2026-10-04T11:24:45.017Z"
         }
       ]
     },
