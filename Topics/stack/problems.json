@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-05T13:49:27.205Z",
+  "updatedAt": "2026-10-05T13:49:48.876Z",
   "problems": [
     {
       "frontendId": "20",
@@ -102,7 +102,7 @@
           "filename": "0856-score-of-parentheses.cpp",
           "path": "0856-score-of-parentheses/0856-score-of-parentheses.cpp",
           "sha": "3a7e359cceb9c891ae6f3913f168f76a69d22714",
-          "lastSyncedAt": "2026-10-05T13:49:27.205Z"
+          "lastSyncedAt": "2026-10-05T13:49:48.876Z"
         }
       ]
     }
