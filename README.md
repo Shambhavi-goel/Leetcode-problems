@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 109 | 89 | 19 | 1 |
+| 112 | 92 | 19 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 25 days | 25 days | 33 |
+| 26 days | 26 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-22 | 4 |
 | 2026-09-23 | 3 |
 | 2026-09-24 | 3 |
 | 2026-09-25 | 3 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-03 | 4 |
 | 2026-10-04 | 7 |
 | 2026-10-05 | 1 |
+| 2026-10-06 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 71 | 65% |
-| Hash Table | 33 | 30% |
+| Array | 74 | 66% |
+| Hash Table | 34 | 30% |
 | Counting | 22 | 20% |
 | Math | 21 | 19% |
 | String | 19 | 17% |
-| Sorting | 15 | 14% |
+| Sorting | 17 | 15% |
 | Two Pointers | 12 | 11% |
 | Dynamic Programming | 8 | 7% |
 | Simulation | 8 | 7% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 57 |
+| [Array](Topics/array/) | 60 |
 | [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -58,14 +58,15 @@ Contains topicwise list of solved problems.
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Counting](Topics/counting/) | 22 |
+| [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
-| [Enumeration](Topics/enumeration/) | 5 |
+| [Enumeration](Topics/enumeration/) | 6 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 30 |
+| [Hash Table](Topics/hash-table/) | 31 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 20 |
@@ -83,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
-| [Sorting](Topics/sorting/) | 14 |
+| [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 20 |
 | [Tree](Topics/tree/) | 1 |
