@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T13:56:18.266Z",
+  "updatedAt": "2026-10-06T14:19:58.967Z",
   "problems": [
     {
       "frontendId": "15",
@@ -403,6 +403,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.cpp",
           "sha": "c72d0b7e567aa8155af8a6b0b1f9a18bdd4bbbfe",
           "lastSyncedAt": "2026-09-14T16:42:59.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1534",
+      "title": "Count Good Triplets",
+      "slug": "count-good-triplets",
+      "problemName": "1534-count-good-triplets",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-triplets/",
+      "folderPath": "1534-count-good-triplets/",
+      "readmePath": "1534-count-good-triplets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1534-count-good-triplets.cpp",
+          "path": "1534-count-good-triplets/1534-count-good-triplets.cpp",
+          "sha": "47b2af6d6dd01dbdbec83cb4e28691bcfaadda1b",
+          "lastSyncedAt": "2026-10-06T14:19:58.967Z"
         }
       ]
     },
