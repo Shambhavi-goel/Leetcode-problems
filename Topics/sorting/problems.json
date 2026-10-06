@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-06T14:39:55.542Z",
+  "updatedAt": "2026-10-06T14:50:45.033Z",
   "problems": [
     {
       "frontendId": "15",
@@ -203,6 +203,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "7968e7ec752742f8db102cea9004f298774d750c",
           "lastSyncedAt": "2026-09-30T17:43:47.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1619",
+      "title": "Mean of Array After Removing Some Elements",
+      "slug": "mean-of-array-after-removing-some-elements",
+      "problemName": "1619-mean-of-array-after-removing-some-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/mean-of-array-after-removing-some-elements/",
+      "folderPath": "1619-mean-of-array-after-removing-some-elements/",
+      "readmePath": "1619-mean-of-array-after-removing-some-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1619-mean-of-array-after-removing-some-elements.cpp",
+          "path": "1619-mean-of-array-after-removing-some-elements/1619-mean-of-array-after-removing-some-elements.cpp",
+          "sha": "dc591a7b2954c03ad731d1ed9cb20a7127ac12ad",
+          "lastSyncedAt": "2026-10-06T14:50:45.033Z"
         }
       ]
     },
