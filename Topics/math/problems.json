@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-02T16:16:32.789Z",
+  "updatedAt": "2026-10-07T17:25:28.682Z",
   "problems": [
     {
       "frontendId": "202",
@@ -323,6 +323,26 @@
           "path": "2180-count-integers-with-even-digit-sum/2180-count-integers-with-even-digit-sum.cpp",
           "sha": "6bcee42b28811c40fd21104a8f415d76e849cf6f",
           "lastSyncedAt": "2026-09-19T17:36:55.096Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2235",
+      "title": "Add Two Integers",
+      "slug": "add-two-integers",
+      "problemName": "2235-add-two-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-integers/",
+      "folderPath": "2235-add-two-integers/",
+      "readmePath": "2235-add-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2235-add-two-integers.cpp",
+          "path": "2235-add-two-integers/2235-add-two-integers.cpp",
+          "sha": "3f052d90e2fd3e97a32f2837ce2887e02ca6b9d7",
+          "lastSyncedAt": "2026-10-07T17:25:28.682Z"
         }
       ]
     },
