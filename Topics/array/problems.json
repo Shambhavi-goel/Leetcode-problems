@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-08T18:23:45.596Z",
+  "updatedAt": "2026-10-08T18:38:11.876Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1164,6 +1164,26 @@
           "path": "3162-find-the-number-of-good-pairs-i/3162-find-the-number-of-good-pairs-i.cpp",
           "sha": "c3324f64c95904ab48323cefccc63dbfb6df7b21",
           "lastSyncedAt": "2026-10-01T13:56:10.405Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3285",
+      "title": "Find Indices of Stable Mountains",
+      "slug": "find-indices-of-stable-mountains",
+      "problemName": "3285-find-indices-of-stable-mountains",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-indices-of-stable-mountains/",
+      "folderPath": "3285-find-indices-of-stable-mountains/",
+      "readmePath": "3285-find-indices-of-stable-mountains/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3285-find-indices-of-stable-mountains.cpp",
+          "path": "3285-find-indices-of-stable-mountains/3285-find-indices-of-stable-mountains.cpp",
+          "sha": "8bde7b1b87daedaa883175e1f411cd0ce4c2c009",
+          "lastSyncedAt": "2026-10-08T18:38:11.876Z"
         }
       ]
     },
