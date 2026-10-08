@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-06T14:50:45.033Z",
+  "updatedAt": "2026-10-08T17:44:44.368Z",
   "problems": [
     {
       "frontendId": "15",
@@ -523,6 +524,26 @@
           "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.cpp",
           "sha": "57a3fa615927cf302165edec50bb75b391d83cdf",
           "lastSyncedAt": "2026-09-14T16:49:42.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "slug": "count-items-matching-a-rule",
+      "problemName": "1773-count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+      "folderPath": "1773-count-items-matching-a-rule/",
+      "readmePath": "1773-count-items-matching-a-rule/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1773-count-items-matching-a-rule.cpp",
+          "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.cpp",
+          "sha": "07c66e5e4e47df1b6b64a07a0c22f7e52a72259a",
+          "lastSyncedAt": "2026-10-08T17:44:44.368Z"
         }
       ]
     },
