@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-08T17:54:48.433Z",
+  "updatedAt": "2026-10-08T18:07:10.638Z",
   "problems": [
     {
       "frontendId": "15",
@@ -924,6 +924,26 @@
           "path": "2558-take-gifts-from-the-richest-pile/2558-take-gifts-from-the-richest-pile.cpp",
           "sha": "ea75a0a61d24c060c96ed77628c65336c50a0cfb",
           "lastSyncedAt": "2026-10-04T11:15:15.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2644",
+      "title": "Find the Maximum Divisibility Score",
+      "slug": "find-the-maximum-divisibility-score",
+      "problemName": "2644-find-the-maximum-divisibility-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-divisibility-score/",
+      "folderPath": "2644-find-the-maximum-divisibility-score/",
+      "readmePath": "2644-find-the-maximum-divisibility-score/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2644-find-the-maximum-divisibility-score.cpp",
+          "path": "2644-find-the-maximum-divisibility-score/2644-find-the-maximum-divisibility-score.cpp",
+          "sha": "57f996b4fdaa237ed41f76e556fbbf0c173a085b",
+          "lastSyncedAt": "2026-10-08T18:07:10.638Z"
         }
       ]
     },
