@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-06T14:50:45.033Z",
+  "updatedAt": "2026-10-08T18:23:45.596Z",
   "problems": [
     {
       "frontendId": "15",
@@ -363,6 +364,26 @@
           "path": "2706-buy-two-chocolates/2706-buy-two-chocolates.cpp",
           "sha": "4e756c8ed04f11a827835cac425b3056dc4f854d",
           "lastSyncedAt": "2026-10-04T11:19:42.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2733",
+      "title": "Neither Minimum nor Maximum",
+      "slug": "neither-minimum-nor-maximum",
+      "problemName": "2733-neither-minimum-nor-maximum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/neither-minimum-nor-maximum/",
+      "folderPath": "2733-neither-minimum-nor-maximum/",
+      "readmePath": "2733-neither-minimum-nor-maximum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2733-neither-minimum-nor-maximum.cpp",
+          "path": "2733-neither-minimum-nor-maximum/2733-neither-minimum-nor-maximum.cpp",
+          "sha": "dd865edc17e2ed75bfefc5966c2019e3e6f5da60",
+          "lastSyncedAt": "2026-10-08T18:23:45.596Z"
         }
       ]
     },
