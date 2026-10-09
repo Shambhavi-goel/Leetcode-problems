@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-09T07:56:16.161Z",
+  "updatedAt": "2026-10-09T08:07:11.225Z",
   "problems": [
     {
       "frontendId": "724",
@@ -64,6 +64,26 @@
           "path": "2873-maximum-value-of-an-ordered-triplet-i/2873-maximum-value-of-an-ordered-triplet-i.cpp",
           "sha": "bc712ee2849a072f2a23a92bbe6a250077694c5d",
           "lastSyncedAt": "2026-09-29T18:01:36.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "3903-smallest-stable-index-i/",
+      "readmePath": "3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3903-smallest-stable-index-i.cpp",
+          "path": "3903-smallest-stable-index-i/3903-smallest-stable-index-i.cpp",
+          "sha": "bbb7a47d5ff6cdba8d052d2a549c13c862ffa424",
+          "lastSyncedAt": "2026-10-09T08:07:11.225Z"
         }
       ]
     }
