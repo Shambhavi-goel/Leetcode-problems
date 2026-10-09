@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-10-06T14:39:55.542Z",
+  "updatedAt": "2026-10-09T10:48:01.860Z",
   "problems": [
     {
       "frontendId": "141",
@@ -483,6 +484,26 @@
           "path": "2404-most-frequent-even-element/2404-most-frequent-even-element.cpp",
           "sha": "3489f9f9472762fdde02279fa83380d9aeda8646",
           "lastSyncedAt": "2026-09-17T17:45:48.353Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "2418-sort-the-people/",
+      "readmePath": "2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2418-sort-the-people.cpp",
+          "path": "2418-sort-the-people/2418-sort-the-people.cpp",
+          "sha": "88ef1fa4a56b5d50cd7ab244e0f21a2c0805f500",
+          "lastSyncedAt": "2026-10-09T10:48:01.860Z"
         }
       ]
     },
