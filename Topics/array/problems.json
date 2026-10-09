@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T07:56:16.161Z",
+  "updatedAt": "2026-10-09T08:07:11.225Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1404,6 +1404,26 @@
           "path": "3880-minimum-absolute-difference-between-two-values/3880-minimum-absolute-difference-between-two-values.cpp",
           "sha": "dab862c7ace423176a885fb7e833488270b118a8",
           "lastSyncedAt": "2026-10-02T15:37:26.946Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "3903-smallest-stable-index-i/",
+      "readmePath": "3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3903-smallest-stable-index-i.cpp",
+          "path": "3903-smallest-stable-index-i/3903-smallest-stable-index-i.cpp",
+          "sha": "bbb7a47d5ff6cdba8d052d2a549c13c862ffa424",
+          "lastSyncedAt": "2026-10-09T08:07:11.225Z"
         }
       ]
     },
