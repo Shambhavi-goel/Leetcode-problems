@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 127 | 105 | 20 | 2 |
+| 128 | 106 | 20 | 2 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-06 | 7 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
-| 2026-10-09 | 4 |
+| 2026-10-09 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 85 | 67% |
+| Array | 86 | 67% |
 | Hash Table | 36 | 28% |
 | Math | 23 | 18% |
 | String | 23 | 18% |
 | Counting | 22 | 17% |
-| Sorting | 21 | 17% |
+| Sorting | 21 | 16% |
 | Two Pointers | 13 | 10% |
 | Dynamic Programming | 8 | 6% |
 | Simulation | 8 | 6% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 71 |
+| [Array](Topics/array/) | 72 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -75,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 3 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
