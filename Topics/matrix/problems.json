@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-09-30T17:40:42.705Z",
+  "updatedAt": "2026-10-09T10:39:36.234Z",
   "problems": [
     {
       "frontendId": "1351",
@@ -23,6 +24,26 @@
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.cpp",
           "sha": "6def929d83d67670d2225e375dbad0dd0685ddf9",
           "lastSyncedAt": "2026-09-30T17:40:42.705Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "1572-matrix-diagonal-sum/",
+      "readmePath": "1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1572-matrix-diagonal-sum.cpp",
+          "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.cpp",
+          "sha": "834863b11a6a0b02f188acec57401d7704e01647",
+          "lastSyncedAt": "2026-10-09T10:39:36.234Z"
         }
       ]
     },
