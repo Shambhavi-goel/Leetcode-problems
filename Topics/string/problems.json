@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-08T18:18:58.897Z",
+  "updatedAt": "2026-10-09T10:48:01.860Z",
   "problems": [
     {
       "frontendId": "20",
@@ -444,6 +444,26 @@
           "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.cpp",
           "sha": "0bcc3e353bb0d7d9c2d04d190f23cbe4d6541f7a",
           "lastSyncedAt": "2026-09-17T17:28:29.732Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2418",
+      "title": "Sort the People",
+      "slug": "sort-the-people",
+      "problemName": "2418-sort-the-people",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+      "folderPath": "2418-sort-the-people/",
+      "readmePath": "2418-sort-the-people/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2418-sort-the-people.cpp",
+          "path": "2418-sort-the-people/2418-sort-the-people.cpp",
+          "sha": "88ef1fa4a56b5d50cd7ab244e0f21a2c0805f500",
+          "lastSyncedAt": "2026-10-09T10:48:01.860Z"
         }
       ]
     },
