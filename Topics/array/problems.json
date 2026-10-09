@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T10:13:51.629Z",
+  "updatedAt": "2026-10-09T10:18:39.429Z",
   "problems": [
     {
       "frontendId": "15",
@@ -264,6 +264,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.cpp",
           "sha": "9e80d3b63356174a708439a492d9b790ea109ea5",
           "lastSyncedAt": "2026-09-20T17:31:48.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1299",
+      "title": "Replace Elements with Greatest Element on Right Side",
+      "slug": "replace-elements-with-greatest-element-on-right-side",
+      "problemName": "1299-replace-elements-with-greatest-element-on-right-side",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/",
+      "folderPath": "1299-replace-elements-with-greatest-element-on-right-side/",
+      "readmePath": "1299-replace-elements-with-greatest-element-on-right-side/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1299-replace-elements-with-greatest-element-on-right-side.cpp",
+          "path": "1299-replace-elements-with-greatest-element-on-right-side/1299-replace-elements-with-greatest-element-on-right-side.cpp",
+          "sha": "a6657bb3ceea86e38387913844d521bd0b92b173",
+          "lastSyncedAt": "2026-10-09T10:18:39.429Z"
         }
       ]
     },
