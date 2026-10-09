@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "greedy",
-    "name": "Greedy"
+    "name": "Greedy",
+    "tagId": "17"
   },
-  "updatedAt": "2026-10-06T15:51:10.319Z",
+  "updatedAt": "2026-10-09T11:29:37.703Z",
   "problems": [
     {
       "frontendId": "605",
@@ -63,6 +64,26 @@
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.cpp",
           "sha": "ae890e0698f0b6fe909decf1824c0d83da945942",
           "lastSyncedAt": "2026-10-06T15:51:10.319Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1541",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "slug": "minimum-insertions-to-balance-a-parentheses-string",
+      "problemName": "1541-minimum-insertions-to-balance-a-parentheses-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+      "folderPath": "1541-minimum-insertions-to-balance-a-parentheses-string/",
+      "readmePath": "1541-minimum-insertions-to-balance-a-parentheses-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
+          "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
+          "sha": "b642d7ede8a2e59ded447c22f9a3d0eb08ea5654",
+          "lastSyncedAt": "2026-10-09T11:29:37.703Z"
         }
       ]
     },
