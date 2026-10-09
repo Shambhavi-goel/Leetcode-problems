@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-09-29T18:01:36.605Z",
+  "updatedAt": "2026-10-09T07:51:04.557Z",
   "problems": [
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0724-find-pivot-index.cpp",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.cpp",
+          "sha": "18c86ab4111981003e64165323386752b43ee5d0",
+          "lastSyncedAt": "2026-10-09T07:51:04.557Z"
+        }
+      ]
+    },
     {
       "frontendId": "2873",
       "title": "Maximum Value of an Ordered Triplet I",
