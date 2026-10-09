@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T10:18:39.429Z",
+  "updatedAt": "2026-10-09T10:39:36.234Z",
   "problems": [
     {
       "frontendId": "15",
@@ -504,6 +504,26 @@
           "path": "1550-three-consecutive-odds/1550-three-consecutive-odds.cpp",
           "sha": "5eb51bf7582aea9c50ac66aee1bd22af9af69767",
           "lastSyncedAt": "2026-10-01T13:06:34.997Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "1572-matrix-diagonal-sum/",
+      "readmePath": "1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1572-matrix-diagonal-sum.cpp",
+          "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.cpp",
+          "sha": "834863b11a6a0b02f188acec57401d7704e01647",
+          "lastSyncedAt": "2026-10-09T10:39:36.234Z"
         }
       ]
     },
