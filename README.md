@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 128 | 106 | 20 | 2 |
+| 129 | 107 | 20 | 2 |
 
 ## Activity
 
@@ -28,30 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-10-06 | 7 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
-| 2026-10-09 | 5 |
+| 2026-10-09 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 86 | 67% |
+| Array | 87 | 67% |
 | Hash Table | 36 | 28% |
 | Math | 23 | 18% |
 | String | 23 | 18% |
 | Counting | 22 | 17% |
 | Sorting | 21 | 16% |
 | Two Pointers | 13 | 10% |
+| Binary Search | 8 | 6% |
 | Dynamic Programming | 8 | 6% |
 | Simulation | 8 | 6% |
-| Stack | 8 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 72 |
+| [Array](Topics/array/) | 73 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 7 |
