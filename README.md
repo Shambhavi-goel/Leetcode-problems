@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 129 | 107 | 20 | 2 |
+| 130 | 108 | 20 | 2 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-10-06 | 7 |
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
-| 2026-10-09 | 6 |
+| 2026-10-09 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 87 | 67% |
+| Array | 88 | 68% |
 | Hash Table | 36 | 28% |
 | Math | 23 | 18% |
 | String | 23 | 18% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 73 |
+| [Array](Topics/array/) | 74 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
