@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-10-01T13:49:35.233Z",
+  "updatedAt": "2026-10-09T10:13:51.629Z",
   "problems": [
+    {
+      "frontendId": "744",
+      "title": "Find Smallest Letter Greater Than Target",
+      "slug": "find-smallest-letter-greater-than-target",
+      "problemName": "0744-find-smallest-letter-greater-than-target",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+      "folderPath": "0744-find-smallest-letter-greater-than-target/",
+      "readmePath": "0744-find-smallest-letter-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0744-find-smallest-letter-greater-than-target.cpp",
+          "path": "0744-find-smallest-letter-greater-than-target/0744-find-smallest-letter-greater-than-target.cpp",
+          "sha": "41e7c405952a0b9a61b9b7e985edaa86eab9128c",
+          "lastSyncedAt": "2026-10-09T10:13:51.629Z"
+        }
+      ]
+    },
     {
       "frontendId": "1346",
       "title": "Check If N and Its Double Exist",
