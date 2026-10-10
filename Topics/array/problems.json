@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T07:26:11.355Z",
+  "updatedAt": "2026-10-10T07:33:43.706Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1404,6 +1404,26 @@
           "path": "3285-find-indices-of-stable-mountains/3285-find-indices-of-stable-mountains.cpp",
           "sha": "8bde7b1b87daedaa883175e1f411cd0ce4c2c009",
           "lastSyncedAt": "2026-10-08T18:38:11.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.cpp",
+          "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
+          "sha": "354c9861e06c5ee8a98de091bb789e2fbe87ff52",
+          "lastSyncedAt": "2026-10-10T07:33:43.706Z"
         }
       ]
     },
