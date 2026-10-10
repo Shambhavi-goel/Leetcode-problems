@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 134 | 111 | 21 | 2 |
+| 136 | 113 | 21 | 2 |
 
 ## Activity
 
@@ -28,30 +28,30 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
 | 2026-10-09 | 10 |
-| 2026-10-10 | 1 |
+| 2026-10-10 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 91 | 68% |
-| Hash Table | 37 | 28% |
-| String | 25 | 19% |
-| Math | 23 | 17% |
+| Array | 93 | 68% |
+| Hash Table | 37 | 27% |
+| String | 25 | 18% |
+| Math | 24 | 18% |
+| Sorting | 23 | 17% |
 | Counting | 22 | 16% |
-| Sorting | 22 | 16% |
-| Two Pointers | 13 | 10% |
+| Two Pointers | 14 | 10% |
+| Binary Search | 9 | 7% |
 | Stack | 9 | 7% |
-| Binary Search | 8 | 6% |
 | Bracket Sequences | 8 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 77 |
+| [Array](Topics/array/) | 79 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
@@ -64,16 +64,18 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Enumeration](Topics/enumeration/) | 6 |
+| [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
+| [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
 | [Hash Table](Topics/hash-table/) | 34 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 22 |
+| [Math](Topics/math/) | 23 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
-| [Number Theory](Topics/number-theory/) | 3 |
+| [Number Theory](Topics/number-theory/) | 4 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
@@ -84,9 +86,9 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 8 |
-| [Sorting](Topics/sorting/) | 21 |
+| [Sorting](Topics/sorting/) | 22 |
 | [Stack](Topics/stack/) | 8 |
 | [String](Topics/string/) | 26 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 <!---LeetHub Summary End-->
