@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T07:17:42.379Z",
+  "updatedAt": "2026-10-10T07:26:11.355Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1304,6 +1304,26 @@
           "path": "2903-find-indices-with-index-and-value-difference-i/2903-find-indices-with-index-and-value-difference-i.cpp",
           "sha": "736692f08d90a15dee799df06b74c70870325d25",
           "lastSyncedAt": "2026-10-04T11:24:45.017Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2965",
+      "title": "Find Missing and Repeated Values",
+      "slug": "find-missing-and-repeated-values",
+      "problemName": "2965-find-missing-and-repeated-values",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-and-repeated-values/",
+      "folderPath": "2965-find-missing-and-repeated-values/",
+      "readmePath": "2965-find-missing-and-repeated-values/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2965-find-missing-and-repeated-values.cpp",
+          "path": "2965-find-missing-and-repeated-values/2965-find-missing-and-repeated-values.cpp",
+          "sha": "ade733b604844e00df5f729481a9479827b06ad3",
+          "lastSyncedAt": "2026-10-10T07:26:11.355Z"
         }
       ]
     },
