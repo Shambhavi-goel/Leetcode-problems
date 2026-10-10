@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-09T10:48:01.860Z",
+  "updatedAt": "2026-10-10T06:54:22.553Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1044,6 +1044,26 @@
           "path": "2558-take-gifts-from-the-richest-pile/2558-take-gifts-from-the-richest-pile.cpp",
           "sha": "ea75a0a61d24c060c96ed77628c65336c50a0cfb",
           "lastSyncedAt": "2026-10-04T11:15:15.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2574-left-and-right-sum-differences.cpp",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.cpp",
+          "sha": "163bdc068f3708a74f440ca0e595e54916ac94bb",
+          "lastSyncedAt": "2026-10-10T06:54:22.553Z"
         }
       ]
     },
