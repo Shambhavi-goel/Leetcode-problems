@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T07:33:43.706Z",
+  "updatedAt": "2026-10-10T18:22:39.161Z",
   "problems": [
     {
       "frontendId": "15",
@@ -884,6 +884,26 @@
           "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.cpp",
           "sha": "1d999e07351b1990968bc08fce311ab59b2aeb84",
           "lastSyncedAt": "2026-10-10T07:17:42.379Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2333-minimum-sum-of-squared-difference.cpp",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
+          "sha": "8bd3fbc9e5d4749945b7ccf6b49e1fe569ae49d2",
+          "lastSyncedAt": "2026-10-10T18:22:39.161Z"
         }
       ]
     },
