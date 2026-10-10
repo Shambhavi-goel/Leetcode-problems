@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "heap-priority-queue",
-    "name": "Heap (Priority Queue)"
+    "name": "Heap (Priority Queue)",
+    "tagId": "61050"
   },
-  "updatedAt": "2026-10-04T11:15:15.983Z",
+  "updatedAt": "2026-10-10T18:22:39.161Z",
   "problems": [
     {
       "frontendId": "347",
@@ -63,6 +64,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "7968e7ec752742f8db102cea9004f298774d750c",
           "lastSyncedAt": "2026-09-30T17:43:47.647Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2333",
+      "title": "Minimum Sum of Squared Difference",
+      "slug": "minimum-sum-of-squared-difference",
+      "problemName": "2333-minimum-sum-of-squared-difference",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+      "folderPath": "2333-minimum-sum-of-squared-difference/",
+      "readmePath": "2333-minimum-sum-of-squared-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2333-minimum-sum-of-squared-difference.cpp",
+          "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
+          "sha": "8bd3fbc9e5d4749945b7ccf6b49e1fe569ae49d2",
+          "lastSyncedAt": "2026-10-10T18:22:39.161Z"
         }
       ]
     },
