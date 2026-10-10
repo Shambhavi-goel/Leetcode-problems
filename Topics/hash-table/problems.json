@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-09T10:48:01.860Z",
+  "updatedAt": "2026-10-10T07:17:42.379Z",
   "problems": [
     {
       "frontendId": "141",
@@ -364,6 +364,26 @@
           "path": "2085-count-common-words-with-one-occurrence/2085-count-common-words-with-one-occurrence.cpp",
           "sha": "2b21e86843b7ffbfe7ba683e608d0898d1fb56c8",
           "lastSyncedAt": "2026-10-03T16:22:10.506Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "problemName": "2154-keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+      "folderPath": "2154-keep-multiplying-found-values-by-two/",
+      "readmePath": "2154-keep-multiplying-found-values-by-two/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2154-keep-multiplying-found-values-by-two.cpp",
+          "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.cpp",
+          "sha": "1d999e07351b1990968bc08fce311ab59b2aeb84",
+          "lastSyncedAt": "2026-10-10T07:17:42.379Z"
         }
       ]
     },
