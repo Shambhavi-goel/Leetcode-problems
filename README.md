@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 136 | 113 | 21 | 2 |
+| 139 | 116 | 21 | 2 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
 | 2026-10-09 | 10 |
-| 2026-10-10 | 3 |
+| 2026-10-10 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 93 | 68% |
-| Hash Table | 37 | 27% |
+| Array | 96 | 69% |
+| Hash Table | 39 | 28% |
+| Math | 26 | 19% |
 | String | 25 | 18% |
-| Math | 24 | 18% |
-| Sorting | 23 | 17% |
+| Sorting | 24 | 17% |
 | Counting | 22 | 16% |
 | Two Pointers | 14 | 10% |
-| Binary Search | 9 | 7% |
-| Stack | 9 | 7% |
-| Bracket Sequences | 8 | 6% |
+| Binary Search | 9 | 6% |
+| Simulation | 9 | 6% |
+| Stack | 9 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 79 |
+| [Array](Topics/array/) | 82 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -68,11 +68,11 @@ Contains topicwise list of solved problems.
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 5 |
-| [Hash Table](Topics/hash-table/) | 34 |
+| [Hash Table](Topics/hash-table/) | 36 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 23 |
-| [Matrix](Topics/matrix/) | 3 |
+| [Math](Topics/math/) | 25 |
+| [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 4 |
@@ -85,8 +85,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 8 |
-| [Sorting](Topics/sorting/) | 22 |
+| [Simulation](Topics/simulation/) | 9 |
+| [Sorting](Topics/sorting/) | 23 |
 | [Stack](Topics/stack/) | 8 |
 | [String](Topics/string/) | 26 |
 | [Tree](Topics/tree/) | 1 |
