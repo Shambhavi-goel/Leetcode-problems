@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "simulation",
-    "name": "Simulation"
+    "name": "Simulation",
+    "tagId": "61055"
   },
-  "updatedAt": "2026-10-04T11:15:15.983Z",
+  "updatedAt": "2026-10-10T07:17:42.379Z",
   "problems": [
     {
       "frontendId": "258",
@@ -63,6 +64,26 @@
           "path": "1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.cpp",
           "sha": "b875aec24875e5b09420ad443a5c5c0aaea2b6ad",
           "lastSyncedAt": "2026-09-20T17:55:28.139Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "problemName": "2154-keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+      "folderPath": "2154-keep-multiplying-found-values-by-two/",
+      "readmePath": "2154-keep-multiplying-found-values-by-two/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2154-keep-multiplying-found-values-by-two.cpp",
+          "path": "2154-keep-multiplying-found-values-by-two/2154-keep-multiplying-found-values-by-two.cpp",
+          "sha": "1d999e07351b1990968bc08fce311ab59b2aeb84",
+          "lastSyncedAt": "2026-10-10T07:17:42.379Z"
         }
       ]
     },
