@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-10-10T18:22:39.161Z",
+  "updatedAt": "2026-10-11T05:25:59.499Z",
   "problems": [
     {
       "frontendId": "605",
@@ -104,6 +104,26 @@
           "path": "2333-minimum-sum-of-squared-difference/2333-minimum-sum-of-squared-difference.cpp",
           "sha": "8bd3fbc9e5d4749945b7ccf6b49e1fe569ae49d2",
           "lastSyncedAt": "2026-10-10T18:22:39.161Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2656",
+      "title": "Maximum Sum With Exactly K Elements ",
+      "slug": "maximum-sum-with-exactly-k-elements",
+      "problemName": "2656-maximum-sum-with-exactly-k-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/",
+      "folderPath": "2656-maximum-sum-with-exactly-k-elements/",
+      "readmePath": "2656-maximum-sum-with-exactly-k-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2656-maximum-sum-with-exactly-k-elements.cpp",
+          "path": "2656-maximum-sum-with-exactly-k-elements/2656-maximum-sum-with-exactly-k-elements.cpp",
+          "sha": "a50db90dbbfd312c242dd1e9689b9a5249859cae",
+          "lastSyncedAt": "2026-10-11T05:25:59.499Z"
         }
       ]
     },
