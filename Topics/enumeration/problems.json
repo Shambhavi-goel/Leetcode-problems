@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "enumeration",
-    "name": "Enumeration"
+    "name": "Enumeration",
+    "tagId": "61066"
   },
-  "updatedAt": "2026-10-06T14:19:58.967Z",
+  "updatedAt": "2026-10-11T05:20:13.710Z",
   "problems": [
     {
       "frontendId": "1534",
@@ -102,7 +103,7 @@
           "filename": "2778-sum-of-squares-of-special-elements.cpp",
           "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.cpp",
           "sha": "bd7d9ffd6dd024c4ce8b1e255f8f2372bb74341d",
-          "lastSyncedAt": "2026-10-03T16:45:18.182Z"
+          "lastSyncedAt": "2026-10-11T05:20:13.710Z"
         }
       ]
     },
