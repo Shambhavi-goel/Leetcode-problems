@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-11T05:25:59.499Z",
+  "updatedAt": "2026-10-12T13:41:46.756Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1324,6 +1324,26 @@
           "path": "2873-maximum-value-of-an-ordered-triplet-i/2873-maximum-value-of-an-ordered-triplet-i.cpp",
           "sha": "bc712ee2849a072f2a23a92bbe6a250077694c5d",
           "lastSyncedAt": "2026-09-29T18:01:36.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+      "folderPath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
+          "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
+          "sha": "18873ae89f487a67d5617ef5c31f40f2d1823e63",
+          "lastSyncedAt": "2026-10-12T13:41:46.756Z"
         }
       ]
     },
