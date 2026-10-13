@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 143 | 118 | 22 | 3 |
+| 144 | 118 | 23 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 32 days | 32 days | 40 |
+| 33 days | 33 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-29 | 3 |
 | 2026-09-30 | 4 |
 | 2026-10-01 | 5 |
 | 2026-10-02 | 4 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-10-10 | 7 |
 | 2026-10-11 | 1 |
 | 2026-10-12 | 2 |
+| 2026-10-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 100 | 70% |
+| Array | 101 | 70% |
 | Hash Table | 40 | 28% |
 | Math | 26 | 18% |
+| Sorting | 26 | 18% |
 | String | 26 | 18% |
-| Sorting | 25 | 17% |
 | Counting | 22 | 15% |
 | Two Pointers | 14 | 10% |
 | Binary Search | 10 | 7% |
+| Greedy | 9 | 6% |
 | Simulation | 9 | 6% |
-| Stack | 9 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 86 |
+| [Array](Topics/array/) | 87 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
@@ -67,7 +67,7 @@ Contains topicwise list of solved problems.
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Greedy](Topics/greedy/) | 8 |
+| [Greedy](Topics/greedy/) | 9 |
 | [Hash Table](Topics/hash-table/) | 37 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 5 |
@@ -86,9 +86,9 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 9 |
-| [Sorting](Topics/sorting/) | 24 |
+| [Sorting](Topics/sorting/) | 25 |
 | [Stack](Topics/stack/) | 8 |
 | [String](Topics/string/) | 27 |
 | [Tree](Topics/tree/) | 1 |
-| [two-pointers](Topics/two-pointers/) | 0 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 <!---LeetHub Summary End-->
