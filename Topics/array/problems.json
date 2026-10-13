@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-12T13:53:22.333Z",
+  "updatedAt": "2026-10-13T13:56:51.489Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1644,6 +1644,26 @@
           "path": "3712-sum-of-elements-with-frequency-divisible-by-k/3712-sum-of-elements-with-frequency-divisible-by-k.cpp",
           "sha": "093b31f32a30192f9cdca455de29b27cd27a6f07",
           "lastSyncedAt": "2026-09-23T18:03:55.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3727-maximum-alternating-sum-of-squares.cpp",
+          "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
+          "sha": "cd0c2b55624c633539f010f56cdde388211851b1",
+          "lastSyncedAt": "2026-10-13T13:56:51.489Z"
         }
       ]
     },
