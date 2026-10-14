@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-14T05:45:07.601Z",
+  "updatedAt": "2026-10-14T06:08:09.175Z",
   "problems": [
     {
       "frontendId": "7",
@@ -524,6 +524,26 @@
           "path": "3663-find-the-least-frequent-digit/3663-find-the-least-frequent-digit.cpp",
           "sha": "1dc9fe4c54c418de9c1a66960f62601319feb716",
           "lastSyncedAt": "2026-09-22T17:39:15.550Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3723",
+      "title": "Maximize Sum of Squares of Digits",
+      "slug": "maximize-sum-of-squares-of-digits",
+      "problemName": "3723-maximize-sum-of-squares-of-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-of-squares-of-digits/",
+      "folderPath": "3723-maximize-sum-of-squares-of-digits/",
+      "readmePath": "3723-maximize-sum-of-squares-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3723-maximize-sum-of-squares-of-digits.cpp",
+          "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
+          "sha": "4ea0db9c0e6158621e2347fb09e0b0553c242049",
+          "lastSyncedAt": "2026-10-14T06:08:09.175Z"
         }
       ]
     }
