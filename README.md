@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 145 | 118 | 24 | 3 |
+| 146 | 118 | 25 | 3 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 1 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
-| 2026-10-14 | 1 |
+| 2026-10-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 101 | 70% |
-| Hash Table | 40 | 28% |
-| Math | 27 | 19% |
+| Array | 102 | 70% |
+| Hash Table | 40 | 27% |
+| Math | 27 | 18% |
+| String | 27 | 18% |
 | Sorting | 26 | 18% |
-| String | 26 | 18% |
 | Counting | 22 | 15% |
 | Two Pointers | 14 | 10% |
 | Binary Search | 10 | 7% |
@@ -49,11 +49,11 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 87 |
+| [Array](Topics/array/) | 88 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
@@ -88,7 +88,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 9 |
 | [Sorting](Topics/sorting/) | 25 |
 | [Stack](Topics/stack/) | 8 |
-| [String](Topics/string/) | 27 |
+| [String](Topics/string/) | 28 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 13 |
 <!---LeetHub Summary End-->
