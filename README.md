@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 144 | 118 | 23 | 3 |
+| 145 | 118 | 24 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 33 days | 33 days | 41 |
+| 34 days | 34 days | 42 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-30 | 4 |
 | 2026-10-01 | 5 |
 | 2026-10-02 | 4 |
 | 2026-10-03 | 4 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 1 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
+| 2026-10-14 | 1 |
 
 ## Top Tags
 
@@ -36,7 +36,7 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 101 | 70% |
 | Hash Table | 40 | 28% |
-| Math | 26 | 18% |
+| Math | 27 | 19% |
 | Sorting | 26 | 18% |
 | String | 26 | 18% |
 | Counting | 22 | 15% |
@@ -71,7 +71,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 37 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 25 |
+| [Math](Topics/math/) | 26 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
