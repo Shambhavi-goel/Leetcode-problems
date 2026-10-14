@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-12T13:41:46.756Z",
+  "updatedAt": "2026-10-14T05:58:55.608Z",
   "problems": [
+    {
+      "frontendId": "318",
+      "title": "Maximum Product of Word Lengths",
+      "slug": "maximum-product-of-word-lengths",
+      "problemName": "0318-maximum-product-of-word-lengths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-word-lengths/",
+      "folderPath": "0318-maximum-product-of-word-lengths/",
+      "readmePath": "0318-maximum-product-of-word-lengths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0318-maximum-product-of-word-lengths.cpp",
+          "path": "0318-maximum-product-of-word-lengths/0318-maximum-product-of-word-lengths.cpp",
+          "sha": "808f9f759d6c1dd80c022b2573558617905845e2",
+          "lastSyncedAt": "2026-10-14T05:58:55.608Z"
+        }
+      ]
+    },
     {
       "frontendId": "645",
       "title": "Set Mismatch",
