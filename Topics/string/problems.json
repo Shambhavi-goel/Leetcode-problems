@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-12T13:53:22.333Z",
+  "updatedAt": "2026-10-14T05:58:55.608Z",
   "problems": [
     {
       "frontendId": "20",
@@ -124,6 +124,26 @@
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
           "sha": "412e39e4664aa349532cc79ffc6790c85c0dd85e",
           "lastSyncedAt": "2026-10-07T17:35:52.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "318",
+      "title": "Maximum Product of Word Lengths",
+      "slug": "maximum-product-of-word-lengths",
+      "problemName": "0318-maximum-product-of-word-lengths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-word-lengths/",
+      "folderPath": "0318-maximum-product-of-word-lengths/",
+      "readmePath": "0318-maximum-product-of-word-lengths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0318-maximum-product-of-word-lengths.cpp",
+          "path": "0318-maximum-product-of-word-lengths/0318-maximum-product-of-word-lengths.cpp",
+          "sha": "808f9f759d6c1dd80c022b2573558617905845e2",
+          "lastSyncedAt": "2026-10-14T05:58:55.608Z"
         }
       ]
     },
