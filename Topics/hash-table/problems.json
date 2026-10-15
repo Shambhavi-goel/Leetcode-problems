@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-15T17:56:22.464Z",
+  "updatedAt": "2026-10-15T18:14:50.836Z",
   "problems": [
     {
       "frontendId": "141",
@@ -584,6 +584,26 @@
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "18873ae89f487a67d5617ef5c31f40f2d1823e63",
           "lastSyncedAt": "2026-10-12T13:41:46.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
+          "sha": "409424aed8ac076fe06c51f3f66c942c1212762a",
+          "lastSyncedAt": "2026-10-15T18:14:50.836Z"
         }
       ]
     },
