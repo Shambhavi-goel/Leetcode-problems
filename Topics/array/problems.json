@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T18:14:50.836Z",
+  "updatedAt": "2026-10-15T18:27:55.877Z",
   "problems": [
     {
       "frontendId": "15",
@@ -984,6 +984,26 @@
           "path": "2176-count-equal-and-divisible-pairs-in-an-array/2176-count-equal-and-divisible-pairs-in-an-array.cpp",
           "sha": "ee2b1db6bcdb89f6e40d9cee5807cbce4057e8bd",
           "lastSyncedAt": "2026-10-15T17:38:52.011Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2239",
+      "title": "Find Closest Number to Zero",
+      "slug": "find-closest-number-to-zero",
+      "problemName": "2239-find-closest-number-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-closest-number-to-zero/",
+      "folderPath": "2239-find-closest-number-to-zero/",
+      "readmePath": "2239-find-closest-number-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2239-find-closest-number-to-zero.cpp",
+          "path": "2239-find-closest-number-to-zero/2239-find-closest-number-to-zero.cpp",
+          "sha": "e142beecde8dd0109e3c6813d3aa9162f88d5a8f",
+          "lastSyncedAt": "2026-10-15T18:27:55.877Z"
         }
       ]
     },
