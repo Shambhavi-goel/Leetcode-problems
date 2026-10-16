@@ -5,7 +5,7 @@
     "name": "Binary Indexed Tree",
     "tagId": "28"
   },
-  "updatedAt": "2026-10-15T18:14:50.836Z",
+  "updatedAt": "2026-10-16T17:17:15.109Z",
   "problems": [
     {
       "frontendId": "2913",
@@ -24,6 +24,26 @@
           "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.cpp",
           "sha": "409424aed8ac076fe06c51f3f66c942c1212762a",
           "lastSyncedAt": "2026-10-15T18:14:50.836Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2916",
+      "title": "Subarrays Distinct Element Sum of Squares II",
+      "slug": "subarrays-distinct-element-sum-of-squares-ii",
+      "problemName": "2916-subarrays-distinct-element-sum-of-squares-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/",
+      "folderPath": "2916-subarrays-distinct-element-sum-of-squares-ii/",
+      "readmePath": "2916-subarrays-distinct-element-sum-of-squares-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2916-subarrays-distinct-element-sum-of-squares-ii.cpp",
+          "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.cpp",
+          "sha": "f585e8d09a996795fc51dd65ab49c9b833175e33",
+          "lastSyncedAt": "2026-10-16T17:17:15.109Z"
         }
       ]
     }
