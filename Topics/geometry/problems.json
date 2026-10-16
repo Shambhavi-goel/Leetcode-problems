@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "geometry",
+    "name": "Geometry",
+    "tagId": "38"
+  },
+  "updatedAt": "2026-10-16T17:26:10.223Z",
+  "problems": [
+    {
+      "frontendId": "1232",
+      "title": "Check If It Is a Straight Line",
+      "slug": "check-if-it-is-a-straight-line",
+      "problemName": "1232-check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+      "folderPath": "1232-check-if-it-is-a-straight-line/",
+      "readmePath": "1232-check-if-it-is-a-straight-line/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1232-check-if-it-is-a-straight-line.cpp",
+          "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
+          "sha": "a9710347d2a4c6625c4cdc952a49ff3595052950",
+          "lastSyncedAt": "2026-10-16T17:26:10.223Z"
+        }
+      ]
+    }
+  ]
+}
