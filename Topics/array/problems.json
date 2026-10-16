@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-16T15:53:35.519Z",
+  "updatedAt": "2026-10-16T16:02:18.895Z",
   "problems": [
     {
       "frontendId": "15",
@@ -864,6 +864,26 @@
           "path": "2006-count-number-of-pairs-with-absolute-difference-k/2006-count-number-of-pairs-with-absolute-difference-k.cpp",
           "sha": "cc8270a2727d7fd9d7cdd1833a51bfd94bf18aeb",
           "lastSyncedAt": "2026-09-26T18:12:48.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2011",
+      "title": "Final Value of Variable After Performing Operations",
+      "slug": "final-value-of-variable-after-performing-operations",
+      "problemName": "2011-final-value-of-variable-after-performing-operations",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+      "folderPath": "2011-final-value-of-variable-after-performing-operations/",
+      "readmePath": "2011-final-value-of-variable-after-performing-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2011-final-value-of-variable-after-performing-operations.cpp",
+          "path": "2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
+          "sha": "9d123862d04fa48eeedeeab253f07fa36b4dc7c4",
+          "lastSyncedAt": "2026-10-16T16:02:18.895Z"
         }
       ]
     },
