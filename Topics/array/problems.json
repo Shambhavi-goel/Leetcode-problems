@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-16T15:22:08.241Z",
+  "updatedAt": "2026-10-16T15:53:35.519Z",
   "problems": [
     {
       "frontendId": "15",
@@ -464,6 +464,26 @@
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.cpp",
           "sha": "61396d999cb64399c5fccbcc1a2906e122bc328d",
           "lastSyncedAt": "2026-10-10T07:03:07.431Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1389",
+      "title": "Create Target Array in the Given Order",
+      "slug": "create-target-array-in-the-given-order",
+      "problemName": "1389-create-target-array-in-the-given-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/create-target-array-in-the-given-order/",
+      "folderPath": "1389-create-target-array-in-the-given-order/",
+      "readmePath": "1389-create-target-array-in-the-given-order/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1389-create-target-array-in-the-given-order.cpp",
+          "path": "1389-create-target-array-in-the-given-order/1389-create-target-array-in-the-given-order.cpp",
+          "sha": "cbe75e368846b758f4f723da190cac14ed48b409",
+          "lastSyncedAt": "2026-10-16T15:53:35.519Z"
         }
       ]
     },
