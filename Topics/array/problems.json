@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-17T18:24:58.584Z",
+  "updatedAt": "2026-10-17T18:41:51.759Z",
   "problems": [
     {
       "frontendId": "15",
@@ -1724,6 +1724,26 @@
           "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.cpp",
           "sha": "f1a10da8ec4cbc7f659716481e1b27a1ab5cfb4c",
           "lastSyncedAt": "2026-09-22T15:48:30.244Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "a4e7c8d7b857ccb17cefb02b40bb84647674dd4a",
+          "lastSyncedAt": "2026-10-17T18:41:51.759Z"
         }
       ]
     },
