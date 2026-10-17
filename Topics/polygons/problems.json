@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "polygons",
+    "name": "Polygons",
+    "tagId": "122071"
+  },
+  "updatedAt": "2026-10-17T18:41:51.759Z",
+  "problems": [
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "a4e7c8d7b857ccb17cefb02b40bb84647674dd4a",
+          "lastSyncedAt": "2026-10-17T18:41:51.759Z"
+        }
+      ]
+    }
+  ]
+}
