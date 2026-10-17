@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-16T17:26:10.223Z",
+  "updatedAt": "2026-10-17T18:41:51.759Z",
   "problems": [
     {
       "frontendId": "7",
@@ -464,6 +464,26 @@
           "path": "2965-find-missing-and-repeated-values/2965-find-missing-and-repeated-values.cpp",
           "sha": "ade733b604844e00df5f729481a9479827b06ad3",
           "lastSyncedAt": "2026-10-10T07:26:11.355Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "a4e7c8d7b857ccb17cefb02b40bb84647674dd4a",
+          "lastSyncedAt": "2026-10-17T18:41:51.759Z"
         }
       ]
     },
