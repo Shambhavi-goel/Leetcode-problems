@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-16T16:02:18.895Z",
+  "updatedAt": "2026-10-17T18:12:59.958Z",
   "problems": [
     {
       "frontendId": "20",
@@ -384,6 +384,26 @@
           "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.cpp",
           "sha": "b642d7ede8a2e59ded447c22f9a3d0eb08ea5654",
           "lastSyncedAt": "2026-10-09T11:29:37.703Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1624",
+      "title": "Largest Substring Between Two Equal Characters",
+      "slug": "largest-substring-between-two-equal-characters",
+      "problemName": "1624-largest-substring-between-two-equal-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-substring-between-two-equal-characters/",
+      "folderPath": "1624-largest-substring-between-two-equal-characters/",
+      "readmePath": "1624-largest-substring-between-two-equal-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1624-largest-substring-between-two-equal-characters.cpp",
+          "path": "1624-largest-substring-between-two-equal-characters/1624-largest-substring-between-two-equal-characters.cpp",
+          "sha": "c34b7dfd895f7e9171e0776ead65a2c30f9ac92d",
+          "lastSyncedAt": "2026-10-17T18:12:59.958Z"
         }
       ]
     },
