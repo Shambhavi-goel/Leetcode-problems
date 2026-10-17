@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 159 | 127 | 28 | 4 |
+| 160 | 128 | 28 | 4 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-14 | 4 |
 | 2026-10-15 | 5 |
 | 2026-10-16 | 5 |
-| 2026-10-17 | 1 |
+| 2026-10-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 114 | 72% |
-| Hash Table | 44 | 28% |
+| Array | 115 | 72% |
+| Hash Table | 45 | 28% |
+| Sorting | 30 | 19% |
 | Math | 29 | 18% |
-| Sorting | 29 | 18% |
 | String | 28 | 18% |
 | Counting | 22 | 14% |
-| Two Pointers | 16 | 10% |
-| Binary Search | 11 | 7% |
+| Two Pointers | 17 | 11% |
+| Binary Search | 12 | 8% |
 | Simulation | 11 | 7% |
 | Greedy | 10 | 6% |
 
@@ -49,10 +49,10 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 100 |
+| [Array](Topics/array/) | 101 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
-| [Binary Search](Topics/binary-search/) | 10 |
+| [Binary Search](Topics/binary-search/) | 11 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
@@ -70,7 +70,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 1 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 10 |
-| [Hash Table](Topics/hash-table/) | 41 |
+| [Hash Table](Topics/hash-table/) | 42 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 28 |
@@ -90,9 +90,9 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 3 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 11 |
-| [Sorting](Topics/sorting/) | 28 |
+| [Sorting](Topics/sorting/) | 29 |
 | [Stack](Topics/stack/) | 8 |
 | [String](Topics/string/) | 29 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 15 |
+| [Two Pointers](Topics/two-pointers/) | 16 |
 <!---LeetHub Summary End-->
