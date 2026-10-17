@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-17T18:24:58.584Z",
+  "updatedAt": "2026-10-17T18:41:51.759Z",
   "problems": [
     {
       "frontendId": "15",
@@ -564,6 +564,26 @@
           "path": "2824-count-pairs-whose-sum-is-less-than-target/2824-count-pairs-whose-sum-is-less-than-target.cpp",
           "sha": "b702ce43ea795a3a15b0f300557255057899a2b6",
           "lastSyncedAt": "2026-09-29T17:55:50.862Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3024",
+      "title": "Type of Triangle",
+      "slug": "type-of-triangle",
+      "problemName": "3024-type-of-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/type-of-triangle/",
+      "folderPath": "3024-type-of-triangle/",
+      "readmePath": "3024-type-of-triangle/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3024-type-of-triangle.cpp",
+          "path": "3024-type-of-triangle/3024-type-of-triangle.cpp",
+          "sha": "a4e7c8d7b857ccb17cefb02b40bb84647674dd4a",
+          "lastSyncedAt": "2026-10-17T18:41:51.759Z"
         }
       ]
     },
