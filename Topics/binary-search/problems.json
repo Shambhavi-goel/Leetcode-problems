@@ -5,8 +5,28 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-10T18:22:39.161Z",
+  "updatedAt": "2026-10-17T07:25:30.111Z",
   "problems": [
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "ed9a354fcc2267e92210e07dcd357fb7c217223a",
+          "lastSyncedAt": "2026-10-17T07:25:30.111Z"
+        }
+      ]
+    },
     {
       "frontendId": "744",
       "title": "Find Smallest Letter Greater Than Target",
