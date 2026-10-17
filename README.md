@@ -5,19 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 146 | 118 | 25 | 3 |
+| 159 | 127 | 28 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 34 days | 34 days | 42 |
+| 37 days | 37 days | 45 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-01 | 5 |
-| 2026-10-02 | 4 |
-| 2026-10-03 | 4 |
 | 2026-10-04 | 7 |
 | 2026-10-05 | 1 |
 | 2026-10-06 | 7 |
@@ -28,67 +25,74 @@ Contains topicwise list of solved problems.
 | 2026-10-11 | 1 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
-| 2026-10-14 | 2 |
+| 2026-10-14 | 4 |
+| 2026-10-15 | 5 |
+| 2026-10-16 | 5 |
+| 2026-10-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 102 | 70% |
-| Hash Table | 40 | 27% |
-| Math | 27 | 18% |
-| String | 27 | 18% |
-| Sorting | 26 | 18% |
-| Counting | 22 | 15% |
-| Two Pointers | 14 | 10% |
-| Binary Search | 10 | 7% |
-| Greedy | 9 | 6% |
-| Simulation | 9 | 6% |
+| Array | 114 | 72% |
+| Hash Table | 44 | 28% |
+| Math | 29 | 18% |
+| Sorting | 29 | 18% |
+| String | 28 | 18% |
+| Counting | 22 | 14% |
+| Two Pointers | 16 | 10% |
+| Binary Search | 11 | 7% |
+| Simulation | 11 | 7% |
+| Greedy | 10 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 88 |
+| [Array](Topics/array/) | 100 |
 | [Backtracking](Topics/backtracking/) | 2 |
-| [Binary Search](Topics/binary-search/) | 9 |
+| [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
+| [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
-| [Bucket Sort](Topics/bucket-sort/) | 2 |
+| [Bucket Sort](Topics/bucket-sort/) | 3 |
 | [Counting](Topics/counting/) | 22 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Database](Topics/database/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Enumeration](Topics/enumeration/) | 6 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
+| [Geometry](Topics/geometry/) | 1 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Greedy](Topics/greedy/) | 9 |
-| [Hash Table](Topics/hash-table/) | 37 |
+| [Greedy](Topics/greedy/) | 10 |
+| [Hash Table](Topics/hash-table/) | 41 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 26 |
+| [Math](Topics/math/) | 28 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 4 |
 | [Ordered Set](Topics/ordered-set/) | 1 |
+| [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 5 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
+| [Radix Sort](Topics/radix-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
-| [Segment Tree](Topics/segment-tree/) | 1 |
+| [Segment Tree](Topics/segment-tree/) | 3 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 9 |
-| [Sorting](Topics/sorting/) | 25 |
+| [Simulation](Topics/simulation/) | 11 |
+| [Sorting](Topics/sorting/) | 28 |
 | [Stack](Topics/stack/) | 8 |
-| [String](Topics/string/) | 28 |
+| [String](Topics/string/) | 29 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 15 |
 <!---LeetHub Summary End-->
