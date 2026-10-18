@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-16T15:22:08.241Z",
+  "updatedAt": "2026-10-18T16:55:31.641Z",
   "problems": [
     {
       "frontendId": "22",
@@ -144,6 +144,26 @@
           "path": "1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.cpp",
           "sha": "e67bf7b6fa3025a5dc160143c87482ca1bf0023a",
           "lastSyncedAt": "2026-09-17T18:04:13.865Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
+          "sha": "eb2bc173e561170ec3519e69232454df4cb7dae6",
+          "lastSyncedAt": "2026-10-18T16:55:31.641Z"
         }
       ]
     }
