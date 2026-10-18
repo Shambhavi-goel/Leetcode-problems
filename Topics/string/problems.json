@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T14:07:20.354Z",
+  "updatedAt": "2026-10-18T14:20:22.411Z",
   "problems": [
     {
       "frontendId": "20",
@@ -444,6 +444,26 @@
           "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.cpp",
           "sha": "07c66e5e4e47df1b6b64a07a0c22f7e52a72259a",
           "lastSyncedAt": "2026-10-08T17:44:44.368Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1790",
+      "title": "Check if One String Swap Can Make Strings Equal",
+      "slug": "check-if-one-string-swap-can-make-strings-equal",
+      "problemName": "1790-check-if-one-string-swap-can-make-strings-equal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/",
+      "folderPath": "1790-check-if-one-string-swap-can-make-strings-equal/",
+      "readmePath": "1790-check-if-one-string-swap-can-make-strings-equal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1790-check-if-one-string-swap-can-make-strings-equal.cpp",
+          "path": "1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.cpp",
+          "sha": "2c17b56a98dcd46a68d9cc9e61096719b54443c9",
+          "lastSyncedAt": "2026-10-18T14:20:22.411Z"
         }
       ]
     },
