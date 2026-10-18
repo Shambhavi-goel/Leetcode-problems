@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T14:20:22.411Z",
+  "updatedAt": "2026-10-18T14:29:04.446Z",
   "problems": [
     {
       "frontendId": "20",
@@ -504,6 +504,26 @@
           "path": "2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.cpp",
           "sha": "9d123862d04fa48eeedeeab253f07fa36b4dc7c4",
           "lastSyncedAt": "2026-10-16T16:02:18.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2068",
+      "title": "Check Whether Two Strings are Almost Equivalent",
+      "slug": "check-whether-two-strings-are-almost-equivalent",
+      "problemName": "2068-check-whether-two-strings-are-almost-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/",
+      "folderPath": "2068-check-whether-two-strings-are-almost-equivalent/",
+      "readmePath": "2068-check-whether-two-strings-are-almost-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2068-check-whether-two-strings-are-almost-equivalent.cpp",
+          "path": "2068-check-whether-two-strings-are-almost-equivalent/2068-check-whether-two-strings-are-almost-equivalent.cpp",
+          "sha": "85e77fae53fe131bc6a6ecbfb5d05b1d0da2ea7b",
+          "lastSyncedAt": "2026-10-18T14:29:04.446Z"
         }
       ]
     },
