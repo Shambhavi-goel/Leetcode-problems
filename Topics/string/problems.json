@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-17T18:12:59.958Z",
+  "updatedAt": "2026-10-18T14:07:20.354Z",
   "problems": [
     {
       "frontendId": "20",
@@ -404,6 +404,26 @@
           "path": "1624-largest-substring-between-two-equal-characters/1624-largest-substring-between-two-equal-characters.cpp",
           "sha": "c34b7dfd895f7e9171e0776ead65a2c30f9ac92d",
           "lastSyncedAt": "2026-10-17T18:12:59.958Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1704",
+      "title": "Determine if String Halves Are Alike",
+      "slug": "determine-if-string-halves-are-alike",
+      "problemName": "1704-determine-if-string-halves-are-alike",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/determine-if-string-halves-are-alike/",
+      "folderPath": "1704-determine-if-string-halves-are-alike/",
+      "readmePath": "1704-determine-if-string-halves-are-alike/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1704-determine-if-string-halves-are-alike.cpp",
+          "path": "1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.cpp",
+          "sha": "83c30d4c5f6dd4d7106680c254ccf58febfa4665",
+          "lastSyncedAt": "2026-10-18T14:07:20.354Z"
         }
       ]
     },
