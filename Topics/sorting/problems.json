@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-19T16:27:25.230Z",
+  "updatedAt": "2026-10-20T18:14:55.005Z",
   "problems": [
     {
       "frontendId": "15",
@@ -624,6 +624,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "cd0c2b55624c633539f010f56cdde388211851b1",
           "lastSyncedAt": "2026-10-13T13:56:51.489Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3886",
+      "title": "Sum of Sortable Integers",
+      "slug": "sum-of-sortable-integers",
+      "problemName": "3886-sum-of-sortable-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+      "folderPath": "3886-sum-of-sortable-integers/",
+      "readmePath": "3886-sum-of-sortable-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3886-sum-of-sortable-integers.cpp",
+          "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.cpp",
+          "sha": "5bffb1d384fe87d464f676117a5c4468a795eb30",
+          "lastSyncedAt": "2026-10-20T18:14:55.005Z"
         }
       ]
     }
