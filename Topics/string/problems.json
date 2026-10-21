@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T14:29:04.446Z",
+  "updatedAt": "2026-10-21T15:31:17.045Z",
   "problems": [
     {
       "frontendId": "20",
@@ -664,6 +664,26 @@
           "path": "3541-find-most-frequent-vowel-and-consonant/3541-find-most-frequent-vowel-and-consonant.cpp",
           "sha": "9e2ce1eec159a4b6b87e5e74885fd3f3e6950534",
           "lastSyncedAt": "2026-09-25T17:39:53.861Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3863",
+      "title": "Minimum Operations to Sort a String",
+      "slug": "minimum-operations-to-sort-a-string",
+      "problemName": "3863-minimum-operations-to-sort-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
+      "folderPath": "3863-minimum-operations-to-sort-a-string/",
+      "readmePath": "3863-minimum-operations-to-sort-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3863-minimum-operations-to-sort-a-string.cpp",
+          "path": "3863-minimum-operations-to-sort-a-string/3863-minimum-operations-to-sort-a-string.cpp",
+          "sha": "b3f268a4609e3ff5e4435428421c9d727da37e92",
+          "lastSyncedAt": "2026-10-21T15:31:17.045Z"
         }
       ]
     }
