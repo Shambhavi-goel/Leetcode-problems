@@ -5,19 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 167 | 133 | 29 | 5 |
+| 173 | 135 | 32 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 38 days | 38 days | 46 |
+| 3 days | 38 days | 49 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-05 | 1 |
-| 2026-10-06 | 7 |
-| 2026-10-07 | 2 |
 | 2026-10-08 | 5 |
 | 2026-10-09 | 10 |
 | 2026-10-10 | 7 |
@@ -28,28 +25,31 @@ Contains topicwise list of solved problems.
 | 2026-10-15 | 5 |
 | 2026-10-16 | 5 |
 | 2026-10-17 | 4 |
-| 2026-10-18 | 5 |
+| 2026-10-18 | 6 |
+| 2026-10-20 | 1 |
+| 2026-10-21 | 3 |
+| 2026-10-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 118 | 71% |
-| Hash Table | 49 | 29% |
-| Sorting | 32 | 19% |
-| String | 32 | 19% |
-| Math | 31 | 19% |
-| Counting | 25 | 15% |
-| Two Pointers | 17 | 10% |
+| Array | 122 | 71% |
+| Hash Table | 50 | 29% |
+| String | 34 | 20% |
+| Math | 33 | 19% |
+| Sorting | 33 | 19% |
+| Counting | 25 | 14% |
+| Two Pointers | 18 | 10% |
 | Binary Search | 12 | 7% |
-| Simulation | 11 | 7% |
-| Dynamic Programming | 10 | 6% |
+| Greedy | 11 | 6% |
+| Simulation | 11 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 104 |
+| [Array](Topics/array/) | 108 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
 | [Binary Search](Topics/binary-search/) | 11 |
@@ -66,17 +66,17 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 8 |
-| [Enumeration](Topics/enumeration/) | 6 |
+| [Enumeration](Topics/enumeration/) | 7 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
-| [Greedy](Topics/greedy/) | 10 |
-| [Hash Table](Topics/hash-table/) | 46 |
+| [Greedy](Topics/greedy/) | 11 |
+| [Hash Table](Topics/hash-table/) | 47 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 5 |
-| [Math](Topics/math/) | 30 |
+| [Math](Topics/math/) | 32 |
 | [Matrix](Topics/matrix/) | 4 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
@@ -94,10 +94,10 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 3 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 11 |
-| [Sorting](Topics/sorting/) | 31 |
+| [Sorting](Topics/sorting/) | 32 |
 | [Stack](Topics/stack/) | 8 |
-| [String](Topics/string/) | 33 |
+| [String](Topics/string/) | 35 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 16 |
+| [Two Pointers](Topics/two-pointers/) | 17 |
 | [Union-Find](Topics/union-find/) | 1 |
 <!---LeetHub Summary End-->
