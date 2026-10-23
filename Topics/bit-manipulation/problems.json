@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-14T05:58:55.608Z",
+  "updatedAt": "2026-10-23T17:43:08.733Z",
   "problems": [
     {
       "frontendId": "318",
@@ -64,6 +64,26 @@
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
           "sha": "18873ae89f487a67d5617ef5c31f40f2d1823e63",
           "lastSyncedAt": "2026-10-12T13:41:46.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3644-maximum-k-to-sort-a-permutation.cpp",
+          "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.cpp",
+          "sha": "d247dacb9fe4f6bce7a3d81957a06c6467b9f87c",
+          "lastSyncedAt": "2026-10-23T17:43:08.733Z"
         }
       ]
     }
