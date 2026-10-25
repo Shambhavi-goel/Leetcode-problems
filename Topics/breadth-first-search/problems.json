@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "breadth-first-search",
-    "name": "Breadth-First Search"
+    "name": "Breadth-First Search",
+    "tagId": "22"
   },
-  "updatedAt": "2026-10-07T17:35:52.247Z",
+  "updatedAt": "2026-10-25T16:31:50.319Z",
   "problems": [
     {
       "frontendId": "111",
@@ -43,6 +44,26 @@
           "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.cpp",
           "sha": "412e39e4664aa349532cc79ffc6790c85c0dd85e",
           "lastSyncedAt": "2026-10-07T17:35:52.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1254-number-of-closed-islands.cpp",
+          "path": "leet/1254-number-of-closed-islands/1254-number-of-closed-islands.cpp",
+          "sha": "aaab2d820a03e623ebb8be6c42ce612f85881d5b",
+          "lastSyncedAt": "2026-10-25T16:31:50.319Z"
         }
       ]
     }
