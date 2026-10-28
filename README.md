@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 176 | 136 | 34 | 6 |
+| 178 | 137 | 35 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 38 days | 52 |
+| 3 days | 38 days | 54 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-11 | 1 |
-| 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
 | 2026-10-14 | 4 |
 | 2026-10-15 | 5 |
@@ -29,12 +27,14 @@ Contains topicwise list of solved problems.
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-26 | 1 |
+| 2026-10-27 | 1 |
+| 2026-10-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 124 | 70% |
+| Array | 125 | 70% |
 | Hash Table | 50 | 28% |
 | String | 35 | 20% |
 | Math | 34 | 19% |
@@ -42,20 +42,20 @@ Contains topicwise list of solved problems.
 | Counting | 25 | 14% |
 | Two Pointers | 18 | 10% |
 | Binary Search | 12 | 7% |
+| Dynamic Programming | 11 | 6% |
 | Greedy | 11 | 6% |
-| Simulation | 11 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 111 |
+| [Array](Topics/array/) | 112 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 2 |
 | [Binary Search](Topics/binary-search/) | 11 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 1 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 4 |
 | [Bucket Sort](Topics/bucket-sort/) | 3 |
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Enumeration](Topics/enumeration/) | 7 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 1 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 33 |
-| [Matrix](Topics/matrix/) | 6 |
+| [Matrix](Topics/matrix/) | 7 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 4 |
