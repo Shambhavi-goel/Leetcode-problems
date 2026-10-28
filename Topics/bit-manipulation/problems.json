@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-23T17:43:08.733Z",
+  "updatedAt": "2026-10-28T18:21:50.185Z",
   "problems": [
     {
       "frontendId": "318",
@@ -84,6 +84,26 @@
           "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.cpp",
           "sha": "d247dacb9fe4f6bce7a3d81957a06c6467b9f87c",
           "lastSyncedAt": "2026-10-23T17:43:08.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3882-minimum-xor-path-in-a-grid.cpp",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.cpp",
+          "sha": "44dffa1577d6800e4df2c0affe30dbdf7004c2b2",
+          "lastSyncedAt": "2026-10-28T18:21:50.185Z"
         }
       ]
     }
