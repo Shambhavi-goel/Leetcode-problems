@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-18T16:55:31.641Z",
+  "updatedAt": "2026-10-28T18:21:50.185Z",
   "problems": [
     {
       "frontendId": "22",
@@ -164,6 +164,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "sha": "eb2bc173e561170ec3519e69232454df4cb7dae6",
           "lastSyncedAt": "2026-10-18T16:55:31.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3882-minimum-xor-path-in-a-grid.cpp",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.cpp",
+          "sha": "44dffa1577d6800e4df2c0affe30dbdf7004c2b2",
+          "lastSyncedAt": "2026-10-28T18:21:50.185Z"
         }
       ]
     }
