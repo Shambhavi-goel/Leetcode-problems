@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-26T16:45:15.127Z",
+  "updatedAt": "2026-10-28T18:21:50.185Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2144,6 +2144,26 @@
           "path": "3880-minimum-absolute-difference-between-two-values/3880-minimum-absolute-difference-between-two-values.cpp",
           "sha": "dab862c7ace423176a885fb7e833488270b118a8",
           "lastSyncedAt": "2026-10-02T15:37:26.946Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3882-minimum-xor-path-in-a-grid.cpp",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.cpp",
+          "sha": "44dffa1577d6800e4df2c0affe30dbdf7004c2b2",
+          "lastSyncedAt": "2026-10-28T18:21:50.185Z"
         }
       ]
     },
