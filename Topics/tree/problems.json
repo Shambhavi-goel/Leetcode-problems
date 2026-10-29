@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-18T16:55:31.641Z",
+  "updatedAt": "2026-10-29T17:46:30.650Z",
   "problems": [
     {
       "frontendId": "111",
@@ -44,6 +44,26 @@
           "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
           "sha": "eb2bc173e561170ec3519e69232454df4cb7dae6",
           "lastSyncedAt": "2026-10-18T16:55:31.641Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3841-palindromic-path-queries-in-a-tree.cpp",
+          "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.cpp",
+          "sha": "bcfaa7bc0cee9c39ce173b72b65ebf7e52a5ae77",
+          "lastSyncedAt": "2026-10-29T17:46:30.650Z"
         }
       ]
     }
