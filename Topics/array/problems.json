@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-28T18:21:50.185Z",
+  "updatedAt": "2026-10-29T17:46:30.650Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2104,6 +2104,26 @@
           "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.cpp",
           "sha": "cd0c2b55624c633539f010f56cdde388211851b1",
           "lastSyncedAt": "2026-10-13T13:56:51.489Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3841-palindromic-path-queries-in-a-tree.cpp",
+          "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.cpp",
+          "sha": "bcfaa7bc0cee9c39ce173b72b65ebf7e52a5ae77",
+          "lastSyncedAt": "2026-10-29T17:46:30.650Z"
         }
       ]
     },
