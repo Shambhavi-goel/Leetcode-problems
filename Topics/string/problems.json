@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-29T17:46:30.650Z",
+  "updatedAt": "2026-10-30T16:52:58.628Z",
   "problems": [
     {
       "frontendId": "20",
@@ -744,6 +744,26 @@
           "path": "3863-minimum-operations-to-sort-a-string/3863-minimum-operations-to-sort-a-string.cpp",
           "sha": "b3f268a4609e3ff5e4435428421c9d727da37e92",
           "lastSyncedAt": "2026-10-21T15:31:17.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3970",
+      "title": "Shortest Path With At Most K Consecutive Identical Characters",
+      "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+      "problemName": "3970-shortest-path-with-at-most-k-consecutive-identical-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
+      "folderPath": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/",
+      "readmePath": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
+          "path": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/3970-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
+          "sha": "a7ec164141a4426abc5fc834306b69e0cd3621cd",
+          "lastSyncedAt": "2026-10-30T16:52:58.628Z"
         }
       ]
     }
