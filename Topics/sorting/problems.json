@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-20T18:14:55.005Z",
+  "updatedAt": "2026-11-02T19:51:59.868Z",
   "problems": [
     {
       "frontendId": "15",
@@ -164,6 +164,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "52f74d9ac5940f0e9b83414e6aec25173646611f",
           "lastSyncedAt": "2026-09-25T17:31:18.696Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "problemName": "0462-minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+      "folderPath": "0462-minimum-moves-to-equal-array-elements-ii/",
+      "readmePath": "0462-minimum-moves-to-equal-array-elements-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0462-minimum-moves-to-equal-array-elements-ii.cpp",
+          "path": "0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.cpp",
+          "sha": "7a6be7dc425896d34eb641cf0e700f2f3d72c40b",
+          "lastSyncedAt": "2026-11-02T19:51:59.868Z"
         }
       ]
     },
