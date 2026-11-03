@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-02T19:51:59.868Z",
+  "updatedAt": "2026-11-03T17:00:34.951Z",
   "problems": [
     {
       "frontendId": "7",
@@ -684,6 +684,26 @@
           "path": "3723-maximize-sum-of-squares-of-digits/3723-maximize-sum-of-squares-of-digits.cpp",
           "sha": "4ea0db9c0e6158621e2347fb09e0b0553c242049",
           "lastSyncedAt": "2026-10-14T06:08:09.175Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
+          "sha": "b41d6ef0cc0b6227dc481006e2b98286f498b4b7",
+          "lastSyncedAt": "2026-11-03T17:00:34.951Z"
         }
       ]
     },
