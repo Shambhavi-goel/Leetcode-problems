@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-21T17:14:09.211Z",
+  "updatedAt": "2026-11-04T14:17:43.305Z",
   "problems": [
     {
       "frontendId": "141",
@@ -824,6 +824,26 @@
           "path": "3162-find-the-number-of-good-pairs-i/3162-find-the-number-of-good-pairs-i.cpp",
           "sha": "c3324f64c95904ab48323cefccc63dbfb6df7b21",
           "lastSyncedAt": "2026-10-01T13:56:10.405Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp",
+          "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp",
+          "sha": "0f14723d96bc9f85cdecb4bf72c06dac8320338c",
+          "lastSyncedAt": "2026-11-04T14:17:43.305Z"
         }
       ]
     },
