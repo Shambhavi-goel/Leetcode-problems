@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-30T16:52:58.628Z",
+  "updatedAt": "2026-11-04T14:17:43.305Z",
   "problems": [
     {
       "frontendId": "347",
@@ -104,6 +104,26 @@
           "path": "2558-take-gifts-from-the-richest-pile/2558-take-gifts-from-the-richest-pile.cpp",
           "sha": "ea75a0a61d24c060c96ed77628c65336c50a0cfb",
           "lastSyncedAt": "2026-10-04T11:15:15.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp",
+          "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp",
+          "sha": "0f14723d96bc9f85cdecb4bf72c06dac8320338c",
+          "lastSyncedAt": "2026-11-04T14:17:43.305Z"
         }
       ]
     },
