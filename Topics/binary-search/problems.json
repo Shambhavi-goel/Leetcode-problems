@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-19T16:27:25.230Z",
+  "updatedAt": "2026-11-05T18:03:14.777Z",
   "problems": [
     {
       "frontendId": "349",
@@ -123,7 +123,7 @@
           "filename": "1385-find-the-distance-value-between-two-arrays.cpp",
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.cpp",
           "sha": "61396d999cb64399c5fccbcc1a2906e122bc328d",
-          "lastSyncedAt": "2026-10-10T07:03:07.431Z"
+          "lastSyncedAt": "2026-11-05T18:03:14.777Z"
         }
       ]
     },
