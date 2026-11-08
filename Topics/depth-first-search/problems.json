@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-29T17:46:30.650Z",
+  "updatedAt": "2026-11-08T19:11:25.349Z",
   "problems": [
     {
       "frontendId": "111",
@@ -44,6 +44,26 @@
           "path": "leet/1254-number-of-closed-islands/1254-number-of-closed-islands.cpp",
           "sha": "aaab2d820a03e623ebb8be6c42ce612f85881d5b",
           "lastSyncedAt": "2026-10-25T16:31:50.319Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1267-count-servers-that-communicate.cpp",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.cpp",
+          "sha": "cccbc9de213311bed118e6404de3a33bd840fb78",
+          "lastSyncedAt": "2026-11-08T19:11:25.349Z"
         }
       ]
     },
