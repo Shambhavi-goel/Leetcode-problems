@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T14:17:43.305Z",
+  "updatedAt": "2026-11-11T19:38:55.852Z",
   "problems": [
     {
       "frontendId": "7",
@@ -724,6 +724,26 @@
           "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.cpp",
           "sha": "b41d6ef0cc0b6227dc481006e2b98286f498b4b7",
           "lastSyncedAt": "2026-11-03T17:00:34.951Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3789",
+      "title": "Minimum Cost to Acquire Required Items",
+      "slug": "minimum-cost-to-acquire-required-items",
+      "problemName": "3789-minimum-cost-to-acquire-required-items",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
+      "folderPath": "3789-minimum-cost-to-acquire-required-items/",
+      "readmePath": "3789-minimum-cost-to-acquire-required-items/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3789-minimum-cost-to-acquire-required-items.cpp",
+          "path": "3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.cpp",
+          "sha": "baef9033e7985f0761eb8abdd2798d1ec1dd0473",
+          "lastSyncedAt": "2026-11-11T19:38:55.852Z"
         }
       ]
     },
