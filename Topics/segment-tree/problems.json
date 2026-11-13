@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-10-29T17:46:30.650Z",
+  "updatedAt": "2026-11-13T19:29:25.379Z",
   "problems": [
     {
       "frontendId": "2913",
@@ -44,6 +44,26 @@
           "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.cpp",
           "sha": "f585e8d09a996795fc51dd65ab49c9b833175e33",
           "lastSyncedAt": "2026-10-16T17:17:15.109Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3420",
+      "title": "Count Non-Decreasing Subarrays After K Operations",
+      "slug": "count-non-decreasing-subarrays-after-k-operations",
+      "problemName": "3420-count-non-decreasing-subarrays-after-k-operations",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+      "folderPath": "3420-count-non-decreasing-subarrays-after-k-operations/",
+      "readmePath": "3420-count-non-decreasing-subarrays-after-k-operations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3420-count-non-decreasing-subarrays-after-k-operations.cpp",
+          "path": "3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.cpp",
+          "sha": "b377dc76d52426af0aa8f0ab985f20383d733e3e",
+          "lastSyncedAt": "2026-11-13T19:29:25.379Z"
         }
       ]
     },
