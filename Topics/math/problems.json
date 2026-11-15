@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-11T19:38:55.852Z",
+  "updatedAt": "2026-11-15T12:22:21.623Z",
   "problems": [
     {
       "frontendId": "7",
@@ -324,6 +324,26 @@
           "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.cpp",
           "sha": "39eb1ef1bc8d04e0d730d36eec4a8ed59433dfc7",
           "lastSyncedAt": "2026-09-19T17:53:38.175Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1524",
+      "title": "Number of Sub-arrays With Odd Sum",
+      "slug": "number-of-sub-arrays-with-odd-sum",
+      "problemName": "1524-number-of-sub-arrays-with-odd-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+      "folderPath": "1524-number-of-sub-arrays-with-odd-sum/",
+      "readmePath": "1524-number-of-sub-arrays-with-odd-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1524-number-of-sub-arrays-with-odd-sum.cpp",
+          "path": "1524-number-of-sub-arrays-with-odd-sum/1524-number-of-sub-arrays-with-odd-sum.cpp",
+          "sha": "0b54896f39fd347ece0e4811a7fad3bb65fd2fff",
+          "lastSyncedAt": "2026-11-15T12:22:21.623Z"
         }
       ]
     },
