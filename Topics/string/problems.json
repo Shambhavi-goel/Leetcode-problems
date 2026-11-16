@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-30T16:52:58.628Z",
+  "updatedAt": "2026-11-16T17:05:56.981Z",
   "problems": [
     {
       "frontendId": "20",
@@ -584,6 +584,26 @@
           "path": "2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.cpp",
           "sha": "54379dce6dff53810eb99033d5623848b5ee3925",
           "lastSyncedAt": "2026-10-12T13:53:22.333Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2243-calculate-digit-sum-of-a-string.cpp",
+          "path": "2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.cpp",
+          "sha": "2f15fd0828e17b2288bd33ff84e128c9044dcc5e",
+          "lastSyncedAt": "2026-11-16T17:05:56.981Z"
         }
       ]
     },
