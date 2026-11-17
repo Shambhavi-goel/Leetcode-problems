@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-05T18:03:14.777Z",
+  "updatedAt": "2026-11-17T17:24:46.076Z",
   "problems": [
     {
       "frontendId": "11",
@@ -344,6 +344,26 @@
           "path": "2903-find-indices-with-index-and-value-difference-i/2903-find-indices-with-index-and-value-difference-i.cpp",
           "sha": "736692f08d90a15dee799df06b74c70870325d25",
           "lastSyncedAt": "2026-10-04T11:24:45.017Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.cpp",
+          "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.cpp",
+          "sha": "050f3fb6a24e5f53b2a5c85167eb4f573710e425",
+          "lastSyncedAt": "2026-11-17T17:24:46.076Z"
         }
       ]
     }
