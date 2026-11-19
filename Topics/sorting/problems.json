@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-06T19:08:41.512Z",
+  "updatedAt": "2026-11-19T19:10:04.730Z",
   "problems": [
     {
       "frontendId": "15",
@@ -524,6 +524,26 @@
           "path": "2475-number-of-unequal-triplets-in-array/2475-number-of-unequal-triplets-in-array.cpp",
           "sha": "aa14b09168e33b5df29424179839114aa17883e6",
           "lastSyncedAt": "2026-10-06T14:22:29.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "problemName": "2567-minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+      "folderPath": "2567-minimum-score-by-changing-two-elements/",
+      "readmePath": "2567-minimum-score-by-changing-two-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2567-minimum-score-by-changing-two-elements.cpp",
+          "path": "2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.cpp",
+          "sha": "c2ee2fcbd65a76d192c6d082a69266c895d225c3",
+          "lastSyncedAt": "2026-11-19T19:10:04.730Z"
         }
       ]
     },
