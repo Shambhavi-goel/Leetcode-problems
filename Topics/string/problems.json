@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-18T19:52:36.223Z",
+  "updatedAt": "2026-11-21T16:02:59.928Z",
   "problems": [
     {
       "frontendId": "20",
@@ -744,6 +744,26 @@
           "path": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/2914-minimum-number-of-changes-to-make-binary-string-beautiful.cpp",
           "sha": "8e2102b2236d0cb229e1e3a33dd28496fb042204",
           "lastSyncedAt": "2026-11-18T19:52:36.223Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3331",
+      "title": "Find Subtree Sizes After Changes",
+      "slug": "find-subtree-sizes-after-changes",
+      "problemName": "3331-find-subtree-sizes-after-changes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+      "folderPath": "3331-find-subtree-sizes-after-changes/",
+      "readmePath": "3331-find-subtree-sizes-after-changes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3331-find-subtree-sizes-after-changes.cpp",
+          "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.cpp",
+          "sha": "2a639434725da5715320d2b7510a3abfb57f7554",
+          "lastSyncedAt": "2026-11-21T16:02:59.928Z"
         }
       ]
     },
