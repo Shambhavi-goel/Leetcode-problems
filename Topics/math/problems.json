@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T12:22:21.623Z",
+  "updatedAt": "2026-11-23T18:51:20.091Z",
   "problems": [
     {
       "frontendId": "7",
@@ -284,6 +284,26 @@
           "path": "1304-find-n-unique-integers-sum-up-to-zero/1304-find-n-unique-integers-sum-up-to-zero.cpp",
           "sha": "e90bf29d1769496fe50e1218221fea40a8fddb87",
           "lastSyncedAt": "2026-09-20T17:39:46.965Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1352-product-of-the-last-k-numbers.cpp",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.cpp",
+          "sha": "652d59b6e16c6aee99e11cf548d6d61617635cc6",
+          "lastSyncedAt": "2026-11-23T18:51:20.091Z"
         }
       ]
     },
