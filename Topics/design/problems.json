@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design",
+    "tagId": "25"
+  },
+  "updatedAt": "2026-11-23T18:51:20.091Z",
+  "problems": [
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1352-product-of-the-last-k-numbers.cpp",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.cpp",
+          "sha": "652d59b6e16c6aee99e11cf548d6d61617635cc6",
+          "lastSyncedAt": "2026-11-23T18:51:20.091Z"
+        }
+      ]
+    }
+  ]
+}
