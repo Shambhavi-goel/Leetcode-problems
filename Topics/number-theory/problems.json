@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-10T07:09:39.332Z",
+  "updatedAt": "2026-11-24T20:41:29.699Z",
   "problems": [
     {
       "frontendId": "258",
@@ -64,6 +64,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.cpp",
           "sha": "2ffe7e8cb5b75972f86824861e5106c3e8834f43",
           "lastSyncedAt": "2026-10-10T07:09:39.332Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3411",
+      "title": "Maximum Subarray With Equal Products",
+      "slug": "maximum-subarray-with-equal-products",
+      "problemName": "3411-maximum-subarray-with-equal-products",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+      "folderPath": "3411-maximum-subarray-with-equal-products/",
+      "readmePath": "3411-maximum-subarray-with-equal-products/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3411-maximum-subarray-with-equal-products.cpp",
+          "path": "3411-maximum-subarray-with-equal-products/3411-maximum-subarray-with-equal-products.cpp",
+          "sha": "52c6549889b6cd534f013a7818aa742e187c56e4",
+          "lastSyncedAt": "2026-11-24T20:41:29.699Z"
         }
       ]
     },
