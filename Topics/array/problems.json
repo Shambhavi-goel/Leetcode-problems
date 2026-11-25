@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-24T20:41:29.699Z",
+  "updatedAt": "2026-11-25T07:08:07.231Z",
   "problems": [
     {
       "frontendId": "11",
@@ -2604,6 +2604,26 @@
           "path": "3903-smallest-stable-index-i/3903-smallest-stable-index-i.cpp",
           "sha": "bbb7a47d5ff6cdba8d052d2a549c13c862ffa424",
           "lastSyncedAt": "2026-10-09T08:07:11.225Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "3934-smallest-unique-subarray/",
+      "readmePath": "3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3934-smallest-unique-subarray.cpp",
+          "path": "3934-smallest-unique-subarray/3934-smallest-unique-subarray.cpp",
+          "sha": "41b105ae36c25bae89ba976247ac9ae49ccb8d21",
+          "lastSyncedAt": "2026-11-25T07:08:07.231Z"
         }
       ]
     },
