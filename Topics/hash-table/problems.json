@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-21T16:02:59.928Z",
+  "updatedAt": "2026-11-25T07:08:07.231Z",
   "problems": [
     {
       "frontendId": "141",
@@ -1004,6 +1004,26 @@
           "path": "3852-smallest-pair-with-different-frequencies/3852-smallest-pair-with-different-frequencies.cpp",
           "sha": "24c0a13cb3702f2a23e332bfb6899676c3b0cc89",
           "lastSyncedAt": "2026-09-23T17:58:37.327Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "3934-smallest-unique-subarray/",
+      "readmePath": "3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3934-smallest-unique-subarray.cpp",
+          "path": "3934-smallest-unique-subarray/3934-smallest-unique-subarray.cpp",
+          "sha": "41b105ae36c25bae89ba976247ac9ae49ccb8d21",
+          "lastSyncedAt": "2026-11-25T07:08:07.231Z"
         }
       ]
     }
