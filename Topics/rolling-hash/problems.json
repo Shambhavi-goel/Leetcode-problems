@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "rolling-hash",
+    "name": "Rolling Hash",
+    "tagId": "56598"
+  },
+  "updatedAt": "2026-11-25T07:08:07.231Z",
+  "problems": [
+    {
+      "frontendId": "3934",
+      "title": "Smallest Unique Subarray",
+      "slug": "smallest-unique-subarray",
+      "problemName": "3934-smallest-unique-subarray",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-unique-subarray/",
+      "folderPath": "3934-smallest-unique-subarray/",
+      "readmePath": "3934-smallest-unique-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3934-smallest-unique-subarray.cpp",
+          "path": "3934-smallest-unique-subarray/3934-smallest-unique-subarray.cpp",
+          "sha": "41b105ae36c25bae89ba976247ac9ae49ccb8d21",
+          "lastSyncedAt": "2026-11-25T07:08:07.231Z"
+        }
+      ]
+    }
+  ]
+}
