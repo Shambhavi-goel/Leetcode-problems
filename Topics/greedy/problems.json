@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-19T19:10:04.730Z",
+  "updatedAt": "2026-11-27T07:43:13.259Z",
   "problems": [
     {
       "frontendId": "11",
@@ -264,6 +264,26 @@
           "path": "3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.cpp",
           "sha": "baef9033e7985f0761eb8abdd2798d1ec1dd0473",
           "lastSyncedAt": "2026-11-11T19:38:55.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3946",
+      "title": "Maximum Number of Items From Sale I",
+      "slug": "maximum-number-of-items-from-sale-i",
+      "problemName": "3946-maximum-number-of-items-from-sale-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-items-from-sale-i/",
+      "folderPath": "3946-maximum-number-of-items-from-sale-i/",
+      "readmePath": "3946-maximum-number-of-items-from-sale-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3946-maximum-number-of-items-from-sale-i.cpp",
+          "path": "3946-maximum-number-of-items-from-sale-i/3946-maximum-number-of-items-from-sale-i.cpp",
+          "sha": "3c167d87b731aca17342f586f2d4add6a42b07a3",
+          "lastSyncedAt": "2026-11-27T07:43:13.259Z"
         }
       ]
     }
