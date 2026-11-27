@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-24T20:41:29.699Z",
+  "updatedAt": "2026-11-27T07:45:02.851Z",
   "problems": [
     {
       "frontendId": "7",
@@ -644,6 +644,26 @@
           "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.cpp",
           "sha": "354c9861e06c5ee8a98de091bb789e2fbe87ff52",
           "lastSyncedAt": "2026-10-10T07:33:43.706Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3360",
+      "title": "Stone Removal Game",
+      "slug": "stone-removal-game",
+      "problemName": "3360-stone-removal-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+      "folderPath": "3360-stone-removal-game/",
+      "readmePath": "3360-stone-removal-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3360-stone-removal-game.cpp",
+          "path": "3360-stone-removal-game/3360-stone-removal-game.cpp",
+          "sha": "ef34ed1aecbdfd7ad73a178b7cd46581e7d878c8",
+          "lastSyncedAt": "2026-11-27T07:45:02.851Z"
         }
       ]
     },
