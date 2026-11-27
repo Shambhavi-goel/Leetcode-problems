@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-16T17:05:56.981Z",
+  "updatedAt": "2026-11-27T07:45:02.851Z",
   "problems": [
     {
       "frontendId": "258",
@@ -224,6 +224,26 @@
           "path": "2558-take-gifts-from-the-richest-pile/2558-take-gifts-from-the-richest-pile.cpp",
           "sha": "ea75a0a61d24c060c96ed77628c65336c50a0cfb",
           "lastSyncedAt": "2026-10-04T11:15:15.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3360",
+      "title": "Stone Removal Game",
+      "slug": "stone-removal-game",
+      "problemName": "3360-stone-removal-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-removal-game/",
+      "folderPath": "3360-stone-removal-game/",
+      "readmePath": "3360-stone-removal-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3360-stone-removal-game.cpp",
+          "path": "3360-stone-removal-game/3360-stone-removal-game.cpp",
+          "sha": "ef34ed1aecbdfd7ad73a178b7cd46581e7d878c8",
+          "lastSyncedAt": "2026-11-27T07:45:02.851Z"
         }
       ]
     },
